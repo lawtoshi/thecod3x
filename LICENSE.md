@@ -1,0 +1,4 @@
+Patents, Copyrights and Trademarks
+Unless otherwise indicated on an individual page of authorship (usually appearing under the "Blog" section of this site), the contents of theCod3x.com are provided to you pursuant to the Creative Commons Attribution 4.0 International License (CC BY 4.0). 
+Notwithstanding the foregoing, no license is given to you to theCod3x.com's trademarks, service marks, trade names, or logos except as is necessary to provide attribution pursuant to the CC BY 4.0 license. The trademarks, service marks, trade names and logos appearing on this site are trademarks of theCod3x.com and or its affiliates or licensors. 
+Copyright is not claimed as to any part of the original work prepared by a U.S. government officer or employee as part of that person’s official duties. All rights reserved.
