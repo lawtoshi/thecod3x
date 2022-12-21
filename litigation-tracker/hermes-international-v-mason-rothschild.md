@@ -41,7 +41,7 @@ Thus the parties will move into discovery to develop the facts to argue whether,
 
 For NFT creators watching the case, the court also notably concluded: “using NFTs to authenticate an image and allow for traceable subsequent resale and transfer does not make the image a commodity without First Amendment protection anymore than selling numbered copies of physical paintings would make the paintings commodities…." _Id._ at \*11.
 
-Shortly after the court's order, Rothschild moved to certify an interlocutory appeal, which Hermès opposed. That motion is pending the court's ruling.
+Shortly after the court's order, Rothschild moved to certify an interlocutory appeal, which Hermès opposed. The court denied the motion, and the parties proceeded through discovery. They filed competing motions for summary judgment, which were argued on November 18, 2022. The court has not ruled on the motions yet, but a jury trial is scheduled to begin January 30, 2023.
 
 ## Docket <a href="#docket" id="docket"></a>
 
