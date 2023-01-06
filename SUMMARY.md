@@ -15,6 +15,7 @@
   * [1.24 - Office of Foreign Assets Control (OFAC)](fedreg/ofac.md)
   * [1.30 - Federal Reserve Board (the Fed)](fedreg/thefed.md)
   * [1.40 - Executive Actions](fedreg/exec.md)
+* [State Regulations](state-regulations.md)
 * [Litigation Tracker](litigation-tracker/README.md)
   * [Hermès Int'l v. Rothschild, 22-cv-00384 (S.D.N.Y. 2022)](litigation-tracker/hermes-international-v-mason-rothschild.md)
   * [Sarcuni v. bZx DAO, 22-cv-00618 (S.D. Cal. 2022)](litigation-tracker/sarcuni-v-bzx-dao.md)
