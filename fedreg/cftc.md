@@ -1,7 +1,7 @@
 # 1.11 - Commodity Futures Trading Commission (CFTC)
 
-{% hint style="danger" %} 
-**NOTE: THE CFTC IS RAPIDLY PRODUCING TESTIMONY/GUIDANCE/ALERTS/ENFORCEMENT ACTIONS IN THIS SPACE. THIS PAGE MAY NOT BE ENTIRELY UP TO DATE. PLEASE DO YOUR OWN RESEARCH AND SEEK THE ADVICE OF AN ATTORNEY.** 
+{% hint style="danger" %}
+**NOTE: THE CFTC IS RAPIDLY PRODUCING TESTIMONY / GUIDANCE / ALERTS / ENFORCEMENT ACTIONS IN THIS SPACE. THIS PAGE MAY NOT BE ENTIRELY UP TO DATE. PLEASE DO YOUR OWN RESEARCH AND SEEK THE ADVICE OF AN ATTORNEY.**
 {% endhint %}
 
 ## Overview <a href="#overview" id="overview"></a>
@@ -22,7 +22,7 @@ The vast majority of the CFTC’s work in this area — much like its initial de
 
 The CFTC began its public guidance with its primer on virtual currencies in 2017. CFTC, [_A CFTC Primer on Virtual Currencies_](https://www.cftc.gov/sites/default/files/idc/groups/public/documents/file/labcftc\_primercurrencies100417.pdf) (2017.10.17). The primer lays out the basics of cryptocurrencies and the blockchain and then set forth plainly the CFTC’s position that: (1) virtual currencies are commodities; (2) the CFTC has jurisdiction over virtual currencies “when a virtual currency is used in a derivatives contract, or if there is fraud or manipulation involving a virtual currency traded in interstate commerce.” [_Id._](https://www.cftc.gov/sites/default/files/idc/groups/public/documents/file/labcftc\_primercurrencies100417.pdf) at 11. It further provided the important caveat that “the CFTC generally does not oversee ‘spot’ or cash market exchanges and transactions involving virtual currencies that do not utilize margin, leverage, or financing.”
 
-It also gave examples of activity that would trigger enforcement action: price manipulation; pre-arranged/wash trading in an exchange-traded virtual currency swap or futures contract; unregistered options/futures trading; and off-exchange, financed transactions targeted to retail customers. [_Id._](https://www.cftc.gov/sites/default/files/idc/groups/public/documents/file/labcftc\_primercurrencies100417.pdf) __ at 13.
+It also gave examples of activity that would trigger enforcement action: price manipulation; pre-arranged/wash trading in an exchange-traded virtual currency swap or futures contract; unregistered options/futures trading; and off-exchange, financed transactions targeted to retail customers. [_Id._](https://www.cftc.gov/sites/default/files/idc/groups/public/documents/file/labcftc\_primercurrencies100417.pdf) \_\_ at 13.
 
 ### Background on Self-Certified Contracts for Bitcoin Products <a href="#background-on-self-certified-contracts-for-bitcoin-products" id="background-on-self-certified-contracts-for-bitcoin-products"></a>
 
@@ -74,8 +74,8 @@ Most recently, given what Behnam calls a "regulatory vacuum," the CFTC announced
 
 Other members of the CFTC (and Behnam’s predecessor) have echoed Chairman Behnam’s calls for both clearer regulation and robust, coordinated enforcement of DeFi markets that appear to be operating in violation of the Commodity Exchange Act:
 
-* “\[W]e should not permit DeFi to become an unregulated shadow financial market in direct competition with regulated markets.  The CFTC, together with other regulators, need to focus more attention to this growing area of concern and address regulatory violations appropriately.” Dan M. Berkovitz, [_Keynote Address Before FIA and SIFMA-AMG, Asset Management Derivatives Forum 2021_](https://www.cftc.gov/PressRoom/SpeechesTestimony/opaberkovitz7) (2021.06.08).
-* “\[W]e have filed more cases in parallel with the Department of Justice than ever before. . . . the CFTC filed charges against a trading platform and its CEO for unlawfully offering products margined in Bitcoin without the required anti-money laundering protections in place.  We brought the civil action, and DOJ and the FBI secured an order seizing the platform’s website and shutting it down.” James McDonald, [_Keynote Address at the Practising Law Institute’s White Collar Crime 2019 Program_](https://www.cftc.gov/PressRoom/SpeechesTestimony/opamcdonald5) (2019.09.25).
+* “\[W]e should not permit DeFi to become an unregulated shadow financial market in direct competition with regulated markets. The CFTC, together with other regulators, need to focus more attention to this growing area of concern and address regulatory violations appropriately.” Dan M. Berkovitz, [_Keynote Address Before FIA and SIFMA-AMG, Asset Management Derivatives Forum 2021_](https://www.cftc.gov/PressRoom/SpeechesTestimony/opaberkovitz7) (2021.06.08).
+* “\[W]e have filed more cases in parallel with the Department of Justice than ever before. . . . the CFTC filed charges against a trading platform and its CEO for unlawfully offering products margined in Bitcoin without the required anti-money laundering protections in place. We brought the civil action, and DOJ and the FBI secured an order seizing the platform’s website and shutting it down.” James McDonald, [_Keynote Address at the Practising Law Institute’s White Collar Crime 2019 Program_](https://www.cftc.gov/PressRoom/SpeechesTestimony/opamcdonald5) (2019.09.25).
 * “\[C]urrent law does not provide any U.S. Federal regulator with such regulatory oversight authority over spot virtual currency platforms \[absent fraud or manipulation] operating in the United States or abroad. . . . The CFTC has been in close communication with the SEC with respect to policy and jurisdictional considerations, especially in connection with recent virtual currency enforcement cases.” J. Christopher Giancarlo, [_Written Testimony Before the Senate Banking Committee_](https://www.thecod3x.com/content/images/wordpress/2022/04/2018-02-06-CFTC-Giancarlo-testimony.pdf), at 4, 11 (2018.02.06).
 
 The CFTC has also issued multiple joint statements with the SEC regarding enforcement in the digital asset and virtual currency space. Those statements also focused on the CFTC’s ongoing efforts to combat fraud, market manipulation, and evasion of AML/CFT regulations that go hand-in-hand with such schemes:
@@ -252,4 +252,3 @@ Sources are listed in reverse chronological order. Not all sources appear above.
 * CFTC, [_A CFTC Primer on Virtual Currencies_](https://www.cftc.gov/sites/default/files/idc/groups/public/documents/file/labcftc\_primercurrencies100417.pdf) (2017.10.17)
 * [_In re Coinflip, Inc. d/b/a Derivabit, and Francisco Riordan_](https://www.cftc.gov/sites/default/files/idc/groups/public/@lrenforcementactions/documents/legalpleading/enfcoinfliprorder09172015.pdf), CFTC Docket No. 15-29 (2015.09.17)
 * Timothy Massad, [_Testimony Before the U.S. Senate Committee on Agriculture, Nutrition & Forestry_](https://www.cftc.gov/PressRoom/SpeechesTestimony/opamassad-6) (2014.12.10)
-
