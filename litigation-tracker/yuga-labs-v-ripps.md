@@ -92,3 +92,7 @@ Selected filings are available for free, direct download below. Full court docke
 {% file src="../.gitbook/assets/2022.10.17 - 053 - Yuga Opposition to M2 Strike Dismiss.pdf" %}
 
 {% file src="../.gitbook/assets/2022.10.24 - 058 - Ripps Reply ISO M2 Strike Dismiss.pdf" %}
+
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

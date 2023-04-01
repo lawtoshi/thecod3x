@@ -130,3 +130,6 @@ Sources are listed in reverse chronological order.
 * G7, [_G7 Public Policy Principles for Retail Central Bank Digital Currencies_](https://www.gov.uk/government/publications/g7-public-policy-principles-for-retail-central-bank-digital-currencies-and-g7-finance-ministers-and-central-bank-governors-statement-on-central-bank) (2021.10.14)
 * President’s Working Group on Financial Markets, [_Statement on Key Regulatory and Supervisory Issues Relevant to Certain Stablecoins_](https://home.treasury.gov/system/files/136/PWG-Stablecoin-Statement-12-23-2020-CLEAN.pdf) __ (2020.12.23)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

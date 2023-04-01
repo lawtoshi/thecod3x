@@ -86,13 +86,4 @@ Furthermore, Texas-based company Coinsource installed a bitcoin ATM in Oklahoma 
 
 ## Author
 
-This page was written by local attorney [Scott T. Beyea](https://mediationcontract.com/about).\
-\
-&#x20;\
-\
-\
-\
-&#x20;\
-\
-\
-\
+This page was written by local attorney [Scott T. Beyea](https://mediationcontract.com/about).

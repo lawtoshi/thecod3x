@@ -124,3 +124,6 @@ Sources are listed in reverse chronological order.
 * [_FTC v. BF Labs, Inc._](https://www.ftc.gov/legal-library/browse/cases-proceedings/142-3058-bf-labs-inc), No. 14-cv-00815-BCW (W.D. Mo. 2014)
 * FTC, Press Release, [_At FTC’s Request, Court Halts Bogus Bitcoin Mining Operation_](https://www.ftc.gov/news-events/news/press-releases/2014/09/ftcs-request-court-halts-bogus-bitcoin-mining-operation) __ (2014.09.23)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

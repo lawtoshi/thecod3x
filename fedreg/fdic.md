@@ -118,3 +118,6 @@ Sources are listed in reverse chronological order.
 * Jelena McWilliams, [_Remarks at Money 20/20_](https://www.fdic.gov/news/speeches/2021/spoct2521.html) (2021.10.27)
 * FDIC, RIN 3064-ZA25, [_Request for Information and Comment on Digital Assets_](https://www.fdic.gov/news/press-releases/2021/pr21046a.pdf) (2021.05.17)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

@@ -77,3 +77,6 @@ Sources are listed in reverse chronological order.
 * President's Working Group on Financial Markets, [_Statement on Key Regulatory and Supervisory Issues Relevant to Certain Stablecoins_](https://home.treasury.gov/system/files/136/PWG-Stablecoin-Statement-12-23-2020-CLEAN.pdf) (2020.12.23)
 * Steven Mnuchin, [White House Press Briefing on Regulatory Issues Associated with Cryptocurrency](https://home.treasury.gov/news/press-releases/sm731) (2019.07.15)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

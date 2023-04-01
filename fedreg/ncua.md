@@ -80,3 +80,6 @@ Sources are listed in reverse chronological order.
 * Todd M. Harper, Letter to Federally Insured Credit Unions, [_Relationships with Third Parties that Provide Services Related to Digital Assets_](https://www.ncua.gov/regulation-supervision/letters-credit-unions-other-guidance/relationships-third-parties-provide-services-related-digital-assets) (2021.12)
 * Kyle S. Hauptman, [_Remarks before CUNA’s 2021 Governmental Affairs Conference_](https://www.ncua.gov/newsroom/speech/2021/ncua-vice-chairman-kyle-s-hauptman-remarks-cunas-2021-governmental-affairs-conference) (2021.03.03)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

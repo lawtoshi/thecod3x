@@ -220,3 +220,6 @@ Sources are listed in reverse chronological order.
 * International Emergency Economic Powers Act (IEEPA), [50 U.S.C. §§ 1701–06](https://www.law.cornell.edu/uscode/text/50/1701)
 * Trading with the Enemy Act (TWEA), [50 U.S.C. §§ 4301–41](https://www.law.cornell.edu/uscode/text/50/4301)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

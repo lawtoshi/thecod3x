@@ -32,9 +32,19 @@ All of these questions (and many more) are likely to come up in the many pages o
 
 ## Posture <a href="#posture" id="posture"></a>
 
-So far, only the complaint has been filed along with various papers admitting the attorneys to appear in the case and to extend the time to file a response to the complaint.
+On March 27, 2023, the District Court largely denied the motion to dismiss of members of the DAO who held governance tokens (BZRX), finding the DAO is plausibly alleged to be a general partnership.&#x20;
+
+The court placed particular emphasis on the apparent attempt by the founders to evade the application of US law by transitioning ownership from LLCs to a DAO, quoting the founders themselves on this point multiple times.
+
+Further, the court reasoned such members are plausibly alleged to have owed a duty of care to the plaintiffs based on representations made about the security of the protocol and how it functioned. The court also found that the token-holding defendants are plausibly alleged to have breached that duty by having inadequate security—specifically that a single phishing email to a single developer permitted hackers access to the entire amount of bZx protocol deposits on the Polygon and Binance blockchains.
+
+Although much remains to occur in discovery, the case will proceed personally against bZx founder Kyle Kistner as a DAO token holder, as well as other similarly situated defendants. The court dismissed claims against entities that did not hold DAO tokens.
 
 ## Docket <a href="#docket" id="docket"></a>
 
 Full court docket is available through PACER, which is most easily accessed through [Court Listener](https://www.courtlistener.com/docket/63281750/sarcuni-v-bzx-dao/).
+
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;
 

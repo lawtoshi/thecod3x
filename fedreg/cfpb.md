@@ -45,3 +45,6 @@ Sources are listed in reverse chronological order.
 * CFPB, [Procedural Rule To Establish Supervisory Authority Over Certain Nonbank Covered Persons Based on Risk Determination](https://www.federalregister.gov/documents/2013/07/03/2013-15485/procedural-rule-to-establish-supervisory-authority-over-certain-nonbank-covered-persons-based-on), 78 Fed. Reg. 40351 (2013.07.03)
 * CFPB, [CFPB Warns Consumers About Bitcoin](https://www.consumerfinance.gov/about-us/newsroom/cfpb-warns-consumers-about-bitcoin/) (2014.08.11)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

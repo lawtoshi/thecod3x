@@ -130,3 +130,6 @@ Sources are listed in reverse chronological order.
 * OCC, Interpretive Letter #1172, [_OCC Chief Counsel’s Interpretation on National Bank and Federal Savings Association Authority to Hold Stablecoin Reserves_](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-actions/2020/int1172.pdf) (2020.09.21)
 * OCC, Interpretive Letter #1170, [_Authority of a National Bank to Provide Cryptocurrency Custody Services for Customers_](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-actions/2020/int1170.pdf) (2020.07.22)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

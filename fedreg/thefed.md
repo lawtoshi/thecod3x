@@ -114,4 +114,4 @@ Sources are listed in reverse chronological order.
 
 ## Authors
 
-[Lawtoshi](https://app.gitbook.com/u/6gv1fLk31cYkNlpw4SIvTn3IfNR2 "mention")
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

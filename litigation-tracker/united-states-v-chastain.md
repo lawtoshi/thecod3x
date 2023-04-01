@@ -40,3 +40,7 @@ Pursuant to a text-only minute entry on June 15, the court ordered the following
 
 Full court docket is available through PACER, which is most easily accessed through [Court Listener](https://www.courtlistener.com/docket/63352608/united-states-v-chastain/).
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;
+

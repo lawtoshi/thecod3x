@@ -40,3 +40,6 @@ Sources are listed in reverse chronological order.
 * [Constitution Annotated, Article I Section 10](https://constitution.congress.gov/browse/article-1/section-10/)
 * [Constitution Annotated, Article I Section 8, Clause 5](https://constitution.congress.gov/browse/article-1/section-10/)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

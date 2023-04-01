@@ -28,3 +28,7 @@ The parties will now engage in pre-trial discovery, and likely plea deal negotia
 
 Full court docket is available through PACER, which is most easily accessed through [Court Listener](https://www.courtlistener.com/docket/63191924/united-states-v-nguyen/).
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;
+

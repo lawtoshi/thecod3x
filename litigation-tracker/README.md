@@ -120,7 +120,7 @@ The below color keys indicate the theories of liability advanced by the governme
 * Obstruction of justice, [18 USC § 1503(a)](https://www.law.cornell.edu/uscode/text/18/1503); Tampering with evidence/witnesses, [18 USC § 1512](https://www.law.cornell.edu/uscode/text/18/1512); destruction of investigative records, [18 USC § 1519](https://www.law.cornell.edu/uscode/text/18/1519);&#x20;
 * Motion to suppress
 * Tax evasion, [26 USC § 7201](https://www.law.cornell.edu/uscode/text/26/7201); willful failure to file a return or pay tax, [26 USC § 7203](https://www.law.cornell.edu/uscode/text/26/7203)
-* Conspiracy to assist in sanctions evasion by violating the International Emergency Economic Powers Act, [50 USC § 1705(a)](https://www.law.cornell.edu/uscode/text/50/1705), 31 CFR §§ [510.206(a)](../blog/criminal-and-civil-insider-cryptocurrency-trading.md), [510.212(b)](https://www.ecfr.gov/current/title-31/subtitle-B/chapter-V/part-510/subpart-B/section-510.212)&#x20;
+* Conspiracy to assist in sanctions evasion by violating the International Emergency Economic Powers Act, [50 USC § 1705(a)](https://www.law.cornell.edu/uscode/text/50/1705), 31 CFR §§ [510.206(a)](broken-reference), [510.212(b)](https://www.ecfr.gov/current/title-31/subtitle-B/chapter-V/part-510/subpart-B/section-510.212)&#x20;
 * Computer Fraud and Abuse, [18 USC § 1030](https://www.law.cornell.edu/uscode/text/18/1030)
 * Identity theft 18 USC §§ [1028](https://www.law.cornell.edu/uscode/text/18/1028), [1028A](https://www.law.cornell.edu/uscode/text/18/1028A)
 * Extortion, [18 USC § 1951](https://www.law.cornell.edu/uscode/text/18/1951)

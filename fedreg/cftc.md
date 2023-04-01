@@ -252,3 +252,7 @@ Sources are listed in reverse chronological order. Not all sources appear above.
 * CFTC, [_A CFTC Primer on Virtual Currencies_](https://www.cftc.gov/sites/default/files/idc/groups/public/documents/file/labcftc\_primercurrencies100417.pdf) (2017.10.17)
 * [_In re Coinflip, Inc. d/b/a Derivabit, and Francisco Riordan_](https://www.cftc.gov/sites/default/files/idc/groups/public/@lrenforcementactions/documents/legalpleading/enfcoinfliprorder09172015.pdf), CFTC Docket No. 15-29 (2015.09.17)
 * Timothy Massad, [_Testimony Before the U.S. Senate Committee on Agriculture, Nutrition & Forestry_](https://www.cftc.gov/PressRoom/SpeechesTestimony/opamassad-6) (2014.12.10)
+
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

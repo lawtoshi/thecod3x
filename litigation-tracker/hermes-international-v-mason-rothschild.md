@@ -46,3 +46,7 @@ Shortly after the court's order, Rothschild moved to certify an interlocutory ap
 ## Docket <a href="#docket" id="docket"></a>
 
 Full court docket is available through PACER, which is most easily accessed through [Court Listener](https://www.courtlistener.com/docket/62602398/hermes-international-v-rothschild/).
+
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

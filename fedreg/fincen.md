@@ -106,3 +106,6 @@ Sources are listed in reverse chronological order.
 * FinCEN, FIN-2014-R001, [_Application of FinCEN’s Regulations to Virtual Currency Mining Operations_](https://www.fincen.gov/sites/default/files/shared/FIN-2014-R001.pdf) (2014.01.30)
 * FinCEN, FIN-2013-G001, [_Application of FinCEN’s Regulations to Persons Administering, Exchanging, or Using Virtual Currencies_](https://www.fincen.gov/sites/default/files/shared/FIN-2013-G001.pdf) (2013.03.18)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;

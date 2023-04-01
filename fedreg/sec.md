@@ -251,3 +251,6 @@ Sources are listed in reverse chronological order.
 * [_Reves v. Ernst & Young_](https://casetext.com/case/reves-v-ernst-young), 494 U.S. 56 (1990)
 * [_SEC v. Howey Co._](https://casetext.com/case/sec-v-howey-co), 328 U.S. 293 (1946)
 
+## Authors
+
+This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;
