@@ -10,7 +10,7 @@ Second, President Biden issued Executive Order 14067 on March 9, 2022 titled _En
 
 ## President’s Working Group on Financial Markets <a href="#president-s-working-group-on-financial-markets" id="president-s-working-group-on-financial-markets"></a>
 
-In November 2021, the President’s Working Group on Financial Markets coordinated with the Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation (FDIC) to release a report on the uses, risks, and opportunities for stablecoins. _See_ President’s Working Group on Financial Markets, the FDIC, and the OCC, [_Report on Stablecoins_](https://home.treasury.gov/system/files/136/StableCoinReport\_Nov1\_508.pdf) __ (2021.11). The report outlines the various current use cases for stablecoins, documents their explosive growth over recent years, details the perceived risks (to users, to the payments system, and to the greater financial system), and issues a call to action to Congress to enact a “consistent and comprehensive regulatory framework” for stablecoins.
+In November 2021, the President’s Working Group on Financial Markets coordinated with the Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation (FDIC) to release a report on the uses, risks, and opportunities for stablecoins. _See_ President’s Working Group on Financial Markets, the FDIC, and the OCC, [_Report on Stablecoins_](https://home.treasury.gov/system/files/136/StableCoinReport\_Nov1\_508.pdf) (2021.11). The report outlines the various current use cases for stablecoins, documents their explosive growth over recent years, details the perceived risks (to users, to the payments system, and to the greater financial system), and issues a call to action to Congress to enact a “consistent and comprehensive regulatory framework” for stablecoins.
 
 The key aspects of that regulatory framework, as requested by the report, are:
 
@@ -88,7 +88,7 @@ EO § 8(b)(i)–(iv).
 
 ## Comprehensive Framework for Responsible Development of Digital Assets <a href="#comprehensive-framework-for-responsible-development-of-digital-assets" id="comprehensive-framework-for-responsible-development-of-digital-assets"></a>
 
-On September 16, 2022, the White House released a fact sheet describing a framework it created regarding the federal government's approach to digital assets. White House, [_FACT SHEET:  White House Releases First-Ever Comprehensive Framework for Responsible Development of Digital Assets_](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/) __ (2022.09.16). That framework is the result of six months' of work from many federal agencies. In broad strokes, the framework continues the key objectives identified by Executive Order 14067: "consumer and investor protection; promoting financial stability; countering illicit finance; U.S. leadership in the global financial system and economic competitiveness; financial inclusion; and responsible innovation." _Id._ Based on those objectives, it calls for, _inter alia_:
+On September 16, 2022, the White House released a fact sheet describing a framework it created regarding the federal government's approach to digital assets. White House, [_FACT SHEET:  White House Releases First-Ever Comprehensive Framework for Responsible Development of Digital Assets_](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/) (2022.09.16). That framework is the result of six months' of work from many federal agencies. In broad strokes, the framework continues the key objectives identified by Executive Order 14067: "consumer and investor protection; promoting financial stability; countering illicit finance; U.S. leadership in the global financial system and economic competitiveness; financial inclusion; and responsible innovation." _Id._ Based on those objectives, it calls for, _inter alia_:
 
 * More aggressive enforcement against bad actors by the SEC, CFTC, and DOJ;
 * Enhanced consumer protection by the CFPB and the FTC, and consumer education by the Financial Literacy and Education Commission (FLEC);
@@ -104,7 +104,7 @@ The framework is based on the following reports that were submitted to the Presi
 
 * Report 1: White House Office of Science and Technology Policy (OSTP), [_Climate and Energy Implications of Crypto-Assets in the United States_](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf) (2022.09.08)
 * Report 2: White House Office of Science and Technology Policy (OSTP), [_Technical Evaluation for a U.S. Central Bank Digital Currency System_](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Technical-Evaluation-US-CBDC-System.pdf) (2022.09.16)
-* Report 3: Department of Justice, [_The Role of Law Enforcement in Detecting, Investigating, and Prosecuting Criminal Activity Related to Digital Assets_](https://www.justice.gov/ag/page/file/1535236/download) __ (2022.09.16)
+* Report 3: Department of Justice, [_The Role of Law Enforcement in Detecting, Investigating, and Prosecuting Criminal Activity Related to Digital Assets_](https://www.justice.gov/ag/page/file/1535236/download) (2022.09.16)
 * Report 4: Department of the Treasury, [_The Future of Money and Payments_](https://home.treasury.gov/system/files/136/Future-of-Money-and-Payments.pdf) (2022.09.16)
 * Report 5: Department of the Treasury, [_Implications for Consumers, Investors, and Businesses_](https://home.treasury.gov/system/files/136/CryptoAsset\_EO5.pdf) (2022.09.16)
 * Report 6: Department of the Treasury, [_Action Plan to Address Illicit Financing Risks of Digital Assets_](https://home.treasury.gov/system/files/136/Digital-Asset-Action-Plan.pdf) (2022.09.16)
@@ -116,19 +116,19 @@ Summaries of these reports will be available here at a later date.
 
 Sources are listed in reverse chronological order.
 
-* White House, [_FACT SHEET:  White House Releases First-Ever Comprehensive Framework for Responsible Development of Digital Assets_](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/) __ (2022.09.16)
+* White House, [_FACT SHEET:  White House Releases First-Ever Comprehensive Framework for Responsible Development of Digital Assets_](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/) (2022.09.16)
 * Department of Commerce, [_Responsible Advancement of U.S. Competitiveness in Digital Assets_](https://www.commerce.gov/sites/default/files/2022-09/Digital-Asset-Competitiveness-Report.pdf) (2022.09.16)
 * Department of the Treasury, [_Action Plan to Address Illicit Financing Risks of Digital Assets_](https://home.treasury.gov/system/files/136/Digital-Asset-Action-Plan.pdf) (2022.09.16)
 * Department of the Treasury, [_Implications for Consumers, Investors, and Businesses_](https://home.treasury.gov/system/files/136/CryptoAsset\_EO5.pdf) (2022.09.16)
 * Department of the Treasury, [_The Future of Money and Payments_](https://home.treasury.gov/system/files/136/Future-of-Money-and-Payments.pdf) (2022.09.16)
-* Department of Justice, [_The Role of Law Enforcement in Detecting, Investigating, and Prosecuting Criminal Activity Related to Digital Assets_](https://www.justice.gov/ag/page/file/1535236/download) __ (2022.09.16)
+* Department of Justice, [_The Role of Law Enforcement in Detecting, Investigating, and Prosecuting Criminal Activity Related to Digital Assets_](https://www.justice.gov/ag/page/file/1535236/download) (2022.09.16)
 * White House Office of Science and Technology Policy (OSTP), [_Technical Evaluation for a U.S. Central Bank Digital Currency System_](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Technical-Evaluation-US-CBDC-System.pdf) (2022.09.16)
 * White House Office of Science and Technology Policy (OSTP), [_Climate and Energy Implications of Crypto-Assets in the United States_](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf) (2022.09.08)
 * [_Ensuring Responsible Development of Digital Assets_](https://www.federalregister.gov/documents/2022/03/14/2022-05471/ensuring-responsible-development-of-digital-assets), 87 Fed. Reg. 14143 (2022.03.09)
-* President’s Working Group on Financial Markets, the FDIC, and the OCC, [_Report on Stablecoins_](https://home.treasury.gov/system/files/136/StableCoinReport\_Nov1\_508.pdf) __ (2021.11)
+* President’s Working Group on Financial Markets, the FDIC, and the OCC, [_Report on Stablecoins_](https://home.treasury.gov/system/files/136/StableCoinReport\_Nov1\_508.pdf) (2021.11)
 * FATF, [_Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers_](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets-2021.html) (2021.10.28)
 * G7, [_G7 Public Policy Principles for Retail Central Bank Digital Currencies_](https://www.gov.uk/government/publications/g7-public-policy-principles-for-retail-central-bank-digital-currencies-and-g7-finance-ministers-and-central-bank-governors-statement-on-central-bank) (2021.10.14)
-* President’s Working Group on Financial Markets, [_Statement on Key Regulatory and Supervisory Issues Relevant to Certain Stablecoins_](https://home.treasury.gov/system/files/136/PWG-Stablecoin-Statement-12-23-2020-CLEAN.pdf) __ (2020.12.23)
+* President’s Working Group on Financial Markets, [_Statement on Key Regulatory and Supervisory Issues Relevant to Certain Stablecoins_](https://home.treasury.gov/system/files/136/PWG-Stablecoin-Statement-12-23-2020-CLEAN.pdf) (2020.12.23)
 
 ## Authors
 

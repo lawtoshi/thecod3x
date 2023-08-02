@@ -24,7 +24,7 @@ It's far too early to say if the government's theory of wire fraud here will be 
 
 Note, however, this case doesn't mean the government thinks NFTs are securities, at least for purposes of this novel "insider trading" complaint. Nor are the facts of this case necessarily easy to translate to a lot of other contexts, since Chastain held such a key position that enabled the alleged fraud, in addition to violating a confidentiality agreement.
 
-This case should give pause to influencers and project creators who buy assets for low values and then intentionally create a lot of hype around those assets __ and then take advantage of that hype to dump their own recently acquired holdings on other buyers. If this theory of "insider trading" holds water, such conduct could be criminal and carry stiff monetary penalties in addition to an up to 20 year prison term for each offense.
+This case should give pause to influencers and project creators who buy assets for low values and then intentionally create a lot of hype around those assets and then take advantage of that hype to dump their own recently acquired holdings on other buyers. If this theory of "insider trading" holds water, such conduct could be criminal and carry stiff monetary penalties in addition to an up to 20 year prison term for each offense.
 
 ## Posture <a href="#posture" id="posture"></a>
 

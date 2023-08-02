@@ -46,7 +46,7 @@ This sanction proved to be far more controversial, although not for a reason ack
 
 > OFAC merely identified a URL and a series of Ethereum contract addresses. Sanctioning a tool and noncustodial smart contract address that are not a direct alias of any person meriting sanction is substantively different from typical usage of the SDN list," and appeared to fail to acknowledge Treasury's own "clear guidance \[via FinCEN] in 2019 \[that] stressed the important difference a custodial wallet (hosted) and a noncustodial wallet (unhosted).
 
-Hailey Lennon, [_Treasury Sanctions Against Major Crypto Privacy Tool Pose New Risks to the Industry_](https://www.forbes.com/sites/haileylennon/2022/08/09/treasury-sanctions-against-major-crypto-privacy-tool-pose-new-risks-to-the-industry/?sh=4a04bd834658) __ (2022.08.09).
+Hailey Lennon, [_Treasury Sanctions Against Major Crypto Privacy Tool Pose New Risks to the Industry_](https://www.forbes.com/sites/haileylennon/2022/08/09/treasury-sanctions-against-major-crypto-privacy-tool-pose-new-risks-to-the-industry/?sh=4a04bd834658) (2022.08.09).
 
 Expanding on that point, Coin Center argued:
 
@@ -56,7 +56,7 @@ Jerry Brito & Peter Van Valkenburgh, [_U.S. Treasury sanction of privacy tools p
 
 As others have noted, if there are not legitimate tools in place to spend money anonymously, this could stifle meritorious free speech, access to medical services like abortion, or otherwise legal businesses that bear a social stigma like pornography. As crypto adoption accelerates, solving the balance between privacy and national security will become more critical.
 
-Chainalysis also noted that despite the significant sums, stolen funds made up only 10.5% of the cryptocurrency moved through Tornado Cash. Chainalysis, [_OFAC Sanctions Popular Ethereum Mixer Tornado Cash for Laundering Crypto Stolen by North Korea's Lazarus Group_](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/) __ (2022.08.08).
+Chainalysis also noted that despite the significant sums, stolen funds made up only 10.5% of the cryptocurrency moved through Tornado Cash. Chainalysis, [_OFAC Sanctions Popular Ethereum Mixer Tornado Cash for Laundering Crypto Stolen by North Korea's Lazarus Group_](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/) (2022.08.08).
 
 <figure><img src="../.gitbook/assets/chainalysis-tornado-cash-1.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -140,9 +140,9 @@ OFAC has issued a number of short, plain language frequently asked questions, wi
 ### Tornado Cash <a href="#tornado-cash" id="tornado-cash"></a>
 
 * OFAC, FAQ 1079, [I sent virtual currency to Tornado Cash but did not complete the mixing transaction or otherwise withdraw my virtual currency before Tornado Cash’s August 8, 2022 designation.  How can I complete the transaction or withdraw my virtual currency without violating U.S. sanctions regulations?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1079) (2022.09.13)
-* OFAC, FAQ 1078, [Do OFAC reporting obligations apply to “dusting” transactions?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1078) **** (2022.09.13)
+* OFAC, FAQ 1078, [Do OFAC reporting obligations apply to “dusting” transactions?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1078) (2022.09.13)
 * OFAC, FAQ 1077, [Can U.S. persons engage in transactions involving identified Tornado Cash virtual currency wallet addresses absent a specific license from OFAC?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1077) (2022.09.13)
-* OFAC, FAQ 1076, [What is prohibited as a result of OFAC’s designation of Tornado Cash?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1076) **** (2022.09.13)
+* OFAC, FAQ 1076, [What is prohibited as a result of OFAC’s designation of Tornado Cash?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1076) (2022.09.13)
 * OFAC, FAQ 1095, [Who is the Tornado Cash “person” that OFAC designated pursuant to E.O. 13722 (“Blocking Property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions with Respect to North Korea”) and Executive Order (E.O.) 13694 (“Blocking the Property of Certain Persons Engaging in Significant Malicious Cyber-Enabled Activities”), as amended?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1095) (2022.11.08)
 
 ### Specific Territories <a href="#specific-territories" id="specific-territories"></a>
@@ -181,13 +181,13 @@ Sources are listed in reverse chronological order.
 * OFAC, FAQ 1095, [Who is the Tornado Cash “person” that OFAC designated pursuant to E.O. 13722 (“Blocking Property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions with Respect to North Korea”) and Executive Order (E.O.) 13694 (“Blocking the Property of Certain Persons Engaging in Significant Malicious Cyber-Enabled Activities”), as amended?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1095) (2022.11.08)
 * OFAC, Press Release, [Treasury Sanctions IRGC-Affiliated Cyber Actors for Roles in Ransomware Activity](https://home.treasury.gov/news/press-releases/jy0948) (2022.09.14)
 * OFAC, FAQ 1079, [I sent virtual currency to Tornado Cash but did not complete the mixing transaction or otherwise withdraw my virtual currency before Tornado Cash’s August 8, 2022 designation.  How can I complete the transaction or withdraw my virtual currency without violating U.S. sanctions regulations?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1079) (2022.09.13)
-* OFAC, FAQ 1078, [Do OFAC reporting obligations apply to “dusting” transactions?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1078) **** (2022.09.13)
+* OFAC, FAQ 1078, [Do OFAC reporting obligations apply to “dusting” transactions?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1078) (2022.09.13)
 * OFAC, FAQ 1077, [Can U.S. persons engage in transactions involving identified Tornado Cash virtual currency wallet addresses absent a specific license from OFAC?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1077) (2022.09.13)
-* OFAC, FAQ 1076, [What is prohibited as a result of OFAC’s designation of Tornado Cash?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1076) **** (2022.09.13)
+* OFAC, FAQ 1076, [What is prohibited as a result of OFAC’s designation of Tornado Cash?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1076) (2022.09.13)
 * Alex Wade, Michael Lewellen, & Peter Van Valkenburgh, [_How does Tornado Cash work?_](https://www.coincenter.org/education/advanced-topics/how-does-tornado-cash-work/) (2022.08.25)
-* Hailey Lennon, [_Treasury Sanctions Against Major Crypto Privacy Tool Pose New Risks to the Industry_](https://www.forbes.com/sites/haileylennon/2022/08/09/treasury-sanctions-against-major-crypto-privacy-tool-pose-new-risks-to-the-industry/?sh=4a04bd834658) __ (2022.08.09)
+* Hailey Lennon, [_Treasury Sanctions Against Major Crypto Privacy Tool Pose New Risks to the Industry_](https://www.forbes.com/sites/haileylennon/2022/08/09/treasury-sanctions-against-major-crypto-privacy-tool-pose-new-risks-to-the-industry/?sh=4a04bd834658) (2022.08.09)
 * Jerry Brito & Peter Van Valkenburgh, [_U.S. Treasury sanction of privacy tools places sweeping restrictions on all Americans_](https://www.coincenter.org/u-s-treasury-sanction-of-privacy-tools-places-sweeping-restrictions-on-all-americans/) (2022.08.08)
-* Chainalysis, [_OFAC Sanctions Popular Ethereum Mixer Tornado Cash for Laundering Crypto Stolen by North Korea's Lazarus Group_](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/) __ (2022.08.08)
+* Chainalysis, [_OFAC Sanctions Popular Ethereum Mixer Tornado Cash for Laundering Crypto Stolen by North Korea's Lazarus Group_](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/) (2022.08.08)
 * OFAC, Press Release, [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash](https://home.treasury.gov/news/press-releases/jy0916) (2022.08.08)
 * OFAC, Press Release, [U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats](https://home.treasury.gov/news/press-releases/jy0768) (2022.05.06)
 * OFAC, [U.S. Treasury Designates Facilitators of Russian Sanctions Evasion](https://home.treasury.gov/news/press-releases/jy0731) (2022.04.20)
