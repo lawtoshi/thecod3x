@@ -1,4 +1,8 @@
-# About 🚀
+---
+description: The Cod3x is a free, open source (CC BY 4.0) legal treatise about crypto law.
+---
+
+# About
 
 <figure><img src=".gitbook/assets/191c1f-BG-Logo-White-Text---Social-Media-Card.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,9 +16,7 @@ This site has an ambitious goal: to make a legal treatise that is built for and 
 
 The plumbing of the international financial system is changing beneath our feet. Lawyers need to get up to speed. Creators need to understand the rails. And the two groups need to be able to have a coherent conversation. This treatise will help everyone know what the state of the law currently _is_ so that all can discuss what the law should _become_ and what we can achieve _today_.
 
-It is my sincere hope that this tool is helpful for you. If it can be made better in anyway, please [reach out](http://twitter.com/lawtoshi). If you find it helpful, please consider sharing an article or subscribing to support its continued deployment and development.
+It is my sincere hope that this tool is helpful for you. If it can be made better in anyway, please [reach out](http://twitter.com/lawtoshi). If you find it helpful, please consider sharing an article, subscribing, or even writing a section to support its continued deployment and development! You can learn more about how to [contribute here](contribute.md).
 
-Subscribe here to receive updates.&#x20;
-
-{% @mailchimp/mailchimpSubscribe cta="Subscribe to receive updates." %}
+### Subscribe [here](https://www.lawtoshi.xyz/welcome) to receive updates directly from Lawtoshi.&#x20;
 

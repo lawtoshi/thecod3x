@@ -1,6 +1,7 @@
 # Table of contents
 
-* [About 🚀](README.md)
+* [About](README.md)
+* [Contribute](contribute.md)
 * [Federal Regulations](fedreg/README.md)
   * [1.01 - U.S. Constitution](fedreg/constitution.md)
   * [1.10 - Securities and Exchange Commission (SEC)](fedreg/sec.md)
