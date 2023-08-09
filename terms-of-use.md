@@ -4,7 +4,7 @@ This website is provided to you, subject to these terms of use (“Terms”). Th
 
 ## **Patents, Copyrights and Trademarks**
 
-Unless otherwise indicated on an individual page of authorship (usually appearing under the "Blog" section of this site), the contents of theCod3x.com are provided to you pursuant to the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (CC BY 4.0).&#x20;
+Unless otherwise indicated on an individual page of authorship, the contents of theCod3x.com are provided to you pursuant to the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (CC BY 4.0).&#x20;
 
 Notwithstanding the foregoing, no license is given to you to theCod3x.com's trademarks, service marks, trade names, or logos except as is necessary to provide attribution pursuant to the CC BY 4.0 license. The trademarks, service marks, trade names and logos appearing on this site are trademarks of theCod3x.com and or its affiliates or licensors.&#x20;
 
