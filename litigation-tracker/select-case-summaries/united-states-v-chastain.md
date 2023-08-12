@@ -14,7 +14,7 @@ Just having inside information and exploiting it to strategic advantage in an op
 
 But Chastain did not just "have" inside information that he then used to strategic advantage. The indictment alleges he actually was responsible for selecting which NFTs would be featured on OpenSea's homepage:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 This allegation is likely the lynchpin of the government's fraud case because it's how they can meet the "false and fraudulent pretenses, representations, and promises" element of wire fraud. What the government is arguing here is that if you (1) have specific control over a public marketplace; (2) secretly buy things you _know_ are about to be listed on that marketplace in a very prominent way; and (3) are actually _the person_ responsible for choosing what gets prominently listed, then it is a fraudulent pretense you have created that permits you to exploit that knowledge by buying low right before the listing and then dumping the NFTs right after the listing for profits of 2X-5X what you paid.
 

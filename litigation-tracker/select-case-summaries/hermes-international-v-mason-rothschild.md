@@ -4,7 +4,7 @@
 
 Hermès is a Parisian fashion brand famous for its Birkin handbags that retail for $10,000 (or more), and have even higher prices on the secondary market. Rothschild is an artist who released an NFT series of “MetaBirkins” that look like Hermès bags, but with fur. Here's an example (taken from Hermès' complaint):
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 The NFTs sold for prices comparable to _actual_ Birkin bags on the secondary market, although they were originally minted for a fraction of that price.
 

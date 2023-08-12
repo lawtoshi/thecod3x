@@ -8,7 +8,7 @@
 
 To obtain one of these "recontextualized" NFTs, users had to visit Ripps' website, read a short description of the project, select a RR/BAYC ape to mint, agree to terms of the mint, and eventually receive the NFT. It looked like this:
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Every RR/BAYC available on Ripps page had the same image and number as the original BAYC NFT. After purchase and delivery (assuming Ripps liked "the vibe" of the buyer's wallet), the RR/BAYC NFTs were tradable on major NFT marketplaces, as well as the Ripps-created site [https://apemarket.com/](https://apemarket.com/).&#x20;
 
@@ -32,15 +32,15 @@ These claims thus all focus on the business aspects of Ripps' activity and the a
 
 Despite the variety of claims above, the facts Yuga chose to focus on really boil down to what it claims is Ripps' wholesale copying of Bored Apes with only the pretext of "recontextualizing" them as "concept art." Instead, Yuga claims, Ripps sought simply to confuse consumers, trade on Yuga's marks, and sell nearly identical NFTs, all of which earned him profits of over $5 million, according to the complaint (¶ 48). The similarity and infringement Yuga identifies is perhaps best illustrated through examples in the Complaint. For example, Yuga shows a side-by-side of an original BAYC and an RR/BAYC listed on OpenSea (¶ 33):
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Yuga also highlights a remarkably similar Twitter account (¶ 44):
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Yuga further claims (¶ 50) that Ripps' actions were part of continuing smear campaign, and that it was Ripps who "effectively doxxed Yuga Labs' founders by providing their personal identities to well-known media."  (That media report was originally published [here](https://www.buzzfeednews.com/article/katienotopoulos/bored-ape-nft-founder-identity), although the complaint provides no detail on how Ripps would've had this information.) Yuga also highlights this instagram post from Ripps as explaining his motivations:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Yuga focuses on the language about Ripps' actions being an intentional "provocation and its working to take down this company," which adds an edge to its claims about unfair competition and intentional infringement. &#x20;
 
@@ -53,7 +53,7 @@ Ripps responded to the suit by filing an extensive motion to strike and/or dismi
 
 Ripps' introduction argues placing Ripps' derivative use of marks in their proper context highlights the satirical nature of the work, which he claims Yuga fails to do in the complaint. As an example, he points to the origins of his criticism of the BAYC logo by placing the BAYC logo, the Nazi SS Totenkopf, and Ripps' logo side-by-side:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Original BAYC at logo at left, Nazi Totenkopf center, and Ripps' derivative logo at right.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Original BAYC at logo at left, Nazi Totenkopf center, and Ripps' derivative logo at right.</p></figcaption></figure>
 
 In this context, and under the first theory, Ripps argues (at 19) that California's Anti-SLAPP statute applies because Ripps' speech was "made (1) in furtherance of the constitutional right of free speech and (2) in connection with a public issue." It is free speech, he argues, because it is meant to criticize Yuga and the Bored Ape Yacht Club imagery, which was made explicit in the "terms" when someone requested to mint an RR/BAYC NFT (see above). And it is a public issue, according to Ripps, because of Yuga's and BAYC's prominence in media (which is alleged in the complaint).&#x20;
 
@@ -61,7 +61,7 @@ Ripps' second theory is that the trademark infringement claims are legally insuf
 
 Artistic relevance requires only that the use have a "non-zero" relationship to the underlying work, a very low bar. Thus the focus of Ripps' motion is largely on whether, as alleged in the complaint, Ripps explicitly misled consumers about the source of the works. Here, he argues that the _whole point_ of the project was to distinguish itself from Yuga Labs and BAYC, and thus let consumers say "fuck off to @BoredApeYC!" Thus, rather than confusing consumers about the origin of the project, Ripps argues (at 23) consumers could not purchase the RR/BAYC NFTs without understanding they were participating in a protest of BAYC itself:
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Additionally, Ripps argues (at 25) that his use is protected by the nominative fair use doctrine. As articulated by the Ninth Circuit, nominative fair use is a defense against trademark infringement claims under the Lanham Act where the defendant can show:
 
@@ -85,13 +85,13 @@ The judge assigned to the matter is the [Hon. John F. Walter](https://en.wikiped
 
 Selected filings are available for free, direct download below. Full court docket is available through PACER, which is most easily accessed through [Court Listener](https://www.courtlistener.com/docket/63458882/yuga-labs-inc-v-ripps/).
 
-{% file src="../.gitbook/assets/2022.06.24 - 001 - Complaint.pdf" %}
+{% file src="../../.gitbook/assets/2022.06.24 - 001 - Complaint.pdf" %}
 
-{% file src="../.gitbook/assets/2022.10.03 - 048 - Ripps M2 Strike or Dismiss.pdf" %}
+{% file src="../../.gitbook/assets/2022.10.03 - 048 - Ripps M2 Strike or Dismiss.pdf" %}
 
-{% file src="../.gitbook/assets/2022.10.17 - 053 - Yuga Opposition to M2 Strike Dismiss.pdf" %}
+{% file src="../../.gitbook/assets/2022.10.17 - 053 - Yuga Opposition to M2 Strike Dismiss.pdf" %}
 
-{% file src="../.gitbook/assets/2022.10.24 - 058 - Ripps Reply ISO M2 Strike Dismiss.pdf" %}
+{% file src="../../.gitbook/assets/2022.10.24 - 058 - Ripps Reply ISO M2 Strike Dismiss.pdf" %}
 
 ## Authors
 

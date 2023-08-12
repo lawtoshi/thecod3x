@@ -20,7 +20,7 @@ This all seems like a relatively straightforward application of wire fraud and m
 
 The government's complaint has been filed and the defendants have negotiated the terms of pre-trial release. Of particular note is this restriction on their activity:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 The parties will now engage in pre-trial discovery, and likely plea deal negotiations. If a plea deal is not reached, or the case is not dismissed for other reasons, the case will proceed to trial.
 
