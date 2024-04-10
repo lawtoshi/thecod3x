@@ -18,5 +18,5 @@ The plumbing of the international financial system is changing beneath our feet.
 
 It is my sincere hope that this tool is helpful for you. If it can be made better in anyway, please [reach out](http://twitter.com/lawtoshi). If you find it helpful, please consider sharing an article, subscribing, or even writing a section to support its continued deployment and development! You can learn more about how to [contribute here](contribute.md).
 
-### Subscribe [here](https://www.lawtoshi.xyz/welcome) to receive updates directly from Lawtoshi.&#x20;
+
 
