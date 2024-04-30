@@ -4,6 +4,16 @@ description: The Cod3x is a free, open source (CC BY 4.0) legal treatise about c
 
 # About
 
+{% hint style="danger" %}
+WARNING: THIS SITE IS NO LONGER BEING MAINTAINED.&#x20;
+
+\
+IT IS BEING KEPT ALIVE HERE FOR HISTORICAL/REFERENCE PURPOSES FOR THE TIME BEING.\
+
+
+IF YOU ARE LOOKING FOR THE LATEST LITIGATION TRACKER PLEASE HEAD [HERE](https://book.lawtoshi.xyz/).
+{% endhint %}
+
 <figure><img src=".gitbook/assets/191c1f-BG-Logo-White-Text---Social-Media-Card.png" alt=""><figcaption></figcaption></figure>
 
 This site has an ambitious goal: to make a legal treatise that is built for and is native to the decentralized internet. It marks a dramatic departure from traditional legal reference texts that are fixed, updated infrequently, published in (or converted from) paper, and highly inaccessible. It is the result of hundreds of hours of effort to compile, summarize, and make accessible the rapidly changing crypto regulatory landscape for lawyers and creators. To that end, this treatise will:
