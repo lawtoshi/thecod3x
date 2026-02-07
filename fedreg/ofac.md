@@ -28,7 +28,8 @@ OFAC began its focus on designating terrorist and criminal enterprises engaged i
 It then expanded from individual actors/addresses to entire cryptocurrency enterprises:
 
 * Designating SUEX OTC, a virtual currency exchange, that OFAC found had been involved in laundering eight different ransomware schemes, which resulted in over 40% of SUEX's known transaction history to be associated with illicit actors. OFAC, Press Release, [Treasury Takes Robust Actions to Counter Ransomware](https://home.treasury.gov/news/press-releases/jy0364) (2021.09.21)
-* Designating the darknet market Hydra and 100 associated virtual currency addresses, as well as virtual currency exchange Garantex, both operating out of Russia. OFAC, Press Release, [Treasury Sanctions Russia-Based Hydra, World’s Largest Darknet Market, and Ransomware-Enabling Virtual Currency Exchange Garantex](https://home.treasury.gov/news/press-releases/jy0701) (2022.04.05)
+* Designating the darknet market Hydra and 100 associated virtual currency addresses, as well as virtual currency exchange Garantex, both operating out of Russia. OFAC, Press Release, [Treasury Sanctions Russia-Based Hydra, World's Largest Darknet Market, and Ransomware-Enabling Virtual Currency Exchange Garantex](https://home.treasury.gov/news/press-releases/jy0701) (2022.04.05)
+* Designating two UK-registered cryptocurrency exchanges, Zedcex Exchange Ltd. and Zedxion Exchange Ltd., for operating in Iran's financial sector and processing cryptocurrency transactions for the Islamic Revolutionary Guard Corps (IRGC). This marked the first time OFAC designated digital asset exchanges specifically for operating in the financial sector of the Iranian economy. Zedcex had reportedly processed over $94 billion in transactions since its registration in August 2022, with approximately $1 billion in IRGC-related transactions conducted primarily through Tether (USDT) on the Tron network. The exchanges were linked to Iranian businessman Babak Morteza Zanjani, previously sentenced to death for embezzling billions from Iran's National Oil Company. OFAC, Press Release, [Treasury Sanctions Cryptocurrency Exchange and Network Enabling Sanctions Evasion and Cyber Criminals](https://home.treasury.gov/news/press-releases/sb0225) (2026.01.30)
 
 ### Virtual Currency Mixers <a href="#virtual-currency-mixers" id="virtual-currency-mixers"></a>
 
@@ -177,6 +178,7 @@ Other than these remarks, members of Treasury have made largely oblique referenc
 
 Sources are listed in reverse chronological order.
 
+* OFAC, Press Release, [Treasury Sanctions Cryptocurrency Exchange and Network Enabling Sanctions Evasion and Cyber Criminals](https://home.treasury.gov/news/press-releases/sb0225) (2026.01.30)
 * OFAC, Press Release, [Treasury Designates DPRK Weapons Representatives](https://home.treasury.gov/news/press-releases/jy1087) (2022.11.08)
 * OFAC, FAQ 1095, [Who is the Tornado Cash “person” that OFAC designated pursuant to E.O. 13722 (“Blocking Property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions with Respect to North Korea”) and Executive Order (E.O.) 13694 (“Blocking the Property of Certain Persons Engaging in Significant Malicious Cyber-Enabled Activities”), as amended?](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1095) (2022.11.08)
 * OFAC, Press Release, [Treasury Sanctions IRGC-Affiliated Cyber Actors for Roles in Ransomware Activity](https://home.treasury.gov/news/press-releases/jy0948) (2022.09.14)
