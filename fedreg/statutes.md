@@ -341,21 +341,97 @@ The House passed the resolution 292-132 and the Senate 70-28, reflecting strong 
 
 ### GENIUS Act (2025) <a href="#genius-act" id="genius-act"></a>
 
-The Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act (S. 1582, Pub. L. 119-27, 2025.07.18) established the first comprehensive federal stablecoin regulatory framework. Key provisions:
+The Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act ([S. 1582](https://www.congress.gov/bill/119th-congress/senate-bill/1582), [Pub. L. 119-27](https://www.congress.gov/119/plaws/publ27/PLAW-119publ27.pdf), 2025.07.18) established the first comprehensive federal regulatory framework specifically for cryptocurrency. The Act creates a licensing, supervisory, and consumer protection regime for "payment stablecoins" — digital assets designed for use as a means of payment, redeemable at par, and backed 1:1 by high-quality reserves.
 
-**Permitted Issuers:** Three categories: (1) subsidiaries of FDIC-insured depository institutions, (2) federally qualified nonbank issuers (OCC-chartered), and (3) state-chartered issuers (capped at $10 billion in outstanding stablecoins before requiring federal oversight).
+#### Legislative History <a href="#genius-act-legislative-history" id="genius-act-legislative-history"></a>
 
-**Reserve Requirements:** 1:1 reserve backing in permitted assets: U.S. coins and Federal Reserve notes, demand deposits at insured institutions, Treasury securities with remaining maturities of 93 days or less, repurchase agreements backed by such Treasuries, money market funds, and central bank reserve deposits.
+Senator Bill Hagerty (R-TN) introduced the GENIUS Act on February 4, 2025 (S. 394), with original cosponsors Tim Scott (R-SC), Kirsten Gillibrand (D-NY), and Cynthia Lummis (R-WY). The Senate Banking Committee held its first markup of the 119th Congress on March 13, 2025, considering nearly 40 amendments before advancing the bill 18-6, with every committee Republican and five Democrats voting in favor.
 
-**Securities/Commodity Carve-Out:** Payment stablecoins are explicitly neither securities nor commodities and are not subject to SEC or CFTC oversight.
+The bill's floor path was turbulent. An initial cloture vote on May 8, 2025 **failed 48-49**, with nine Democrats who had signaled support withdrawing their votes, citing concerns over AML provisions, Trump-family conflicts of interest (relating to World Liberty Financial's USD1 stablecoin), and consumer protection gaps. Senators Hawley (R-MO) and Paul (R-KY) also voted against.
 
-**BSA Compliance:** Issuers must maintain AML/CFT compliance programs, including risk assessments, sanctions screening, and customer identification.
+Between the failed and successful votes, Senator Hagerty introduced a substitute amendment (S.Amdt. 2307) that strengthened the bill in several respects: creation of a Stablecoin Certification Review Committee (SCRC) to replace sole Treasury authority over state-regime certifications, enhanced foreign issuer conditions, stronger AML provisions, tighter data-sharing restrictions limiting issuers to sharing consumer information only for legal compliance purposes, and improved consumer protections. The substitute was adopted 67-30 on June 12, 2025, and the Senate passed the bill **68-30** on June 17, 2025.
 
-**Consumer Protection:** Stablecoin holders receive super-priority claims over all other creditors in insolvency. Reserve assets are not property of the bankruptcy estate. Mandatory redemption rights at par value.
+In the House, passage was briefly derailed when approximately a dozen House Freedom Caucus members — objecting that the bill did not incorporate a January 2025 executive order's CBDC ban — voted against the procedural rule on July 15, holding the vote open for a record 9 hours and 40 minutes. After negotiations with the President and Speaker Johnson, the objection was resolved and the House passed S. 1582 without amendment **308-122** on July 17, 2025. President Trump signed the bill on July 18, 2025. _See_ [White House Fact Sheet](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/).
 
-**Effective Date:** Earlier of 18 months after enactment (~January 2027) or 120 days after regulators issue final implementing regulations. Rulemaking deadline: July 18, 2026.
+#### Statutory Definition <a href="#genius-act-definition" id="genius-act-definition"></a>
 
-The legislative path was notable: after an initial cloture vote failed 48-49 (May 2025), the bill was revised and passed the Senate 68-30 (June 2025) and the House 308-122 (July 2025). _See_ [congress.gov](https://www.congress.gov/bill/119th-congress/senate-bill/1582).
+Section 2(22) defines a "payment stablecoin" as a digital asset that: (1) is designed to be used as a means of payment or settlement; (2) whose issuer is obligated to convert, redeem, or repurchase the asset for a fixed amount of monetary value; and (3) represents, or creates a reasonable expectation, that it will maintain stable value relative to a fixed monetary amount. National currencies, FDIC-insured deposits, and securities are excluded.
+
+#### Permitted Issuers <a href="#genius-act-issuers" id="genius-act-issuers"></a>
+
+Only "permitted payment stablecoin issuers" (PPSIs) may issue payment stablecoins in the United States. The Act establishes three tiers:
+
+**Tier 1 — Depository Institution Subsidiaries (Section 5):** Subsidiaries of FDIC-insured banks, savings associations, and insured credit unions, approved and supervised by their primary federal banking agency (OCC for national banks, FDIC for state nonmember banks, Federal Reserve for state member banks, NCUA for credit unions). _See_ Section 1.13 (FDIC); Section 1.14 (NCUA); Section 1.22 (OCC); Section 1.30 (Federal Reserve).
+
+**Tier 2 — Federal Qualified Nonbank Issuers (Sections 5-6):** Nonbank entities, uninsured national banks (e.g., national trust companies), and federal branches of foreign banks — all approved and supervised by the OCC. _See_ Section 1.22 (OCC).
+
+**Tier 3 — State Qualified Issuers (Section 7):** Entities established under state law, approved by a state payment stablecoin regulator, limited to issuers with consolidated outstanding issuance of **not more than $10 billion**. The state regulatory regime must be certified as "substantially similar" to the federal framework by the SCRC. When a state-qualified issuer exceeds the $10 billion threshold, it must transition to federal oversight under the OCC or Federal Reserve within 360 days or obtain a waiver. States that established digital asset regulatory regimes within 90 days of enactment receive a "presumptive waiver" protecting their issuers.
+
+#### Reserve Requirements (Section 4(a)(1)) <a href="#genius-act-reserves" id="genius-act-reserves"></a>
+
+Issuers must maintain reserves on at least a 1:1 basis in six categories of permitted assets: (1) U.S. coins and Federal Reserve notes; (2) demand deposits at insured depository institutions; (3) Treasury securities with remaining maturities of 93 days or less; (4) repurchase agreements backed by qualifying short-term Treasuries; (5) registered government money market funds invested solely in the above assets; and (6) central bank reserve deposits. Rehypothecation of reserves is prohibited except to create liquidity for reasonable redemption expectations. Commingling of reserves with operational funds is prohibited.
+
+#### Securities/Commodity Carve-Out (Section 4(a)(7)) <a href="#genius-act-carveout" id="genius-act-carveout"></a>
+
+Payment stablecoins issued by PPSIs are explicitly excluded from the definitions of "security" under the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, and the Securities Investor Protection Act of 1970, and from the definition of "commodity" under the Commodity Exchange Act. This carve-out removes SEC and CFTC jurisdiction over compliant payment stablecoins. _See_ Section 1.10 (SEC); Section 1.11 (CFTC). The carve-out does not extend to stablecoins from non-permitted issuers. SEC Chairman Atkins directed staff to consider guidance for SEC registrants utilizing payment stablecoins for settlement and margining. _See_ [SEC Statement](https://www.sec.gov/newsroom/speeches-statements/atkins-statement-genius-act-071825).
+
+#### Interest and Yield Prohibition (Section 4(a)(11)) <a href="#genius-act-yield" id="genius-act-yield"></a>
+
+The Act prohibits PPSIs and foreign payment stablecoin issuers from paying holders "any form of interest or yield (whether in cash, tokens, or other consideration) solely in connection with the holding, use, or retention of such payment stablecoin." This positions stablecoins as payment instruments rather than deposit substitutes. The Treasury estimated that stablecoins offering competitive interest rates could cause up to $6.6 trillion in deposit outflows from the banking system.
+
+The prohibition contains two significant limitations that have generated intense post-enactment debate. First, the word "solely" may permit payments connected to activity beyond passive holding (e.g., transaction-based rewards or loyalty programs). Second, the prohibition applies only to _issuers_, not to third-party platforms or exchanges. As of February 2026, platforms including Coinbase (offering 4.1% USDC rewards) and PayPal (offering 3.7% PYUSD rewards) structure their yield programs as platform-funded rewards rather than issuer payments, arguing this falls outside Section 4(a)(11). Over 40 banking associations led by the American Bankers Association have urged Congress to extend the prohibition to affiliates and exchanges, warning that unchecked yield programs could destabilize the banking system by draining deposits used for lending.
+
+The yield question is closely linked to the securities carve-out: if a stablecoin issuer pays yield, it would violate Section 4(a)(11), potentially fall outside the "payment stablecoin" definition, and potentially lose the securities law carve-out — meaning it could be analyzed as a security under the _Howey_ investment contract test. As of February 2026, the yield controversy is the primary obstacle to Senate passage of the CLARITY Act market structure bill, with the White House mediating between crypto industry and banking interests under an end-of-February deadline.
+
+#### Algorithmic Stablecoin Treatment (Section 4(a)(3), Section 11) <a href="#genius-act-algorithmic" id="genius-act-algorithmic"></a>
+
+The Act effectively prohibits algorithmic stabilization mechanisms for payment stablecoins by requiring that value be maintained exclusively through reserve backing using enumerated permissible assets. Section 11 directs the Secretary of the Treasury to conduct a study of "endogenously collateralized stablecoins" — defined as digital assets relying solely on the value of another digital asset created by the same originator to maintain a fixed price (i.e., the TerraUSD/LUNA model) — and report to Congress within one year of enactment.
+
+#### Foreign Issuer Provisions (Section 18) <a href="#genius-act-foreign-issuers" id="genius-act-foreign-issuers"></a>
+
+Digital asset service providers may not offer foreign-issued stablecoins to U.S. persons unless the foreign issuer operates from a jurisdiction with a "comparable regulatory framework" as determined by Treasury, registers with the OCC, holds reserves in a U.S. financial institution, and has the technological capability to comply with U.S. lawful orders (asset freezes, AML directives). Foreign issuers not predominantly engaged in financial services require unanimous SCRC approval. Violations carry penalties of up to $100,000/day against platforms and $1 million/day against issuers. The scope of what qualifies as "comparable" is left to Treasury determination and has generated concern regarding the compliance pathway for offshore issuers such as Tether. _See_ Section 1.22 (OCC); Section 1.24 (OFAC).
+
+#### Reporting and Disclosure (Section 6) <a href="#genius-act-reporting" id="genius-act-reporting"></a>
+
+Issuers must publicly disclose circulating stablecoins and reserve composition monthly, with CEO and CFO certification to regulators and examination by a registered public accounting firm. Quarterly financial reports are required. Issuers with over $50 billion in outstanding stablecoins must publish audited annual financial statements under PCAOB standards. Marketing restrictions prohibit claims that stablecoins are backed by the full faith and credit of the U.S. government, guaranteed by the government, covered by federal deposit insurance, or constitute legal tender.
+
+#### Consumer Protection and Insolvency <a href="#genius-act-consumer-protection" id="genius-act-consumer-protection"></a>
+
+Stablecoin holders receive super-priority claims over all other creditors in insolvency. The Act amends Section 541 of the Bankruptcy Code to exclude stablecoin reserves from property of the bankruptcy estate, treating reserves as property of customers. Courts must conduct expedited review and distribution. Issuers must establish clear redemption procedures, disclose fees in plain language, and may not condition stablecoin availability on purchase of additional services.
+
+#### BSA/AML Compliance (Section 9) <a href="#genius-act-bsa" id="genius-act-bsa"></a>
+
+All PPSIs are classified as "financial institutions" under the Bank Secrecy Act and must implement AML programs, customer identification programs, enhanced due diligence for high-risk customers, and Suspicious Activity Report filing. Issuers must annually certify AML compliance to their regulator — a higher reporting obligation than currently required of banks. Within 30 days of enactment, the Treasury Secretary was required to seek public comment on innovative methods for detecting digital asset-related illicit activity. _See_ Section 1.21 (FinCEN).
+
+#### Penalties and Enforcement (Section 19) <a href="#genius-act-penalties" id="genius-act-penalties"></a>
+
+Civil penalties range from $100,000 to $200,000 per day per violation for unlicensed issuance or willful noncompliance. Criminal penalties include up to $1 million in fines and 5 years imprisonment for knowing violations. Executive liability extends up to six years after departure. Regulators may suspend or revoke PPSI registration, initiate cease-and-desist proceedings, remove affiliated parties, and refer violations to the Attorney General. The Federal Reserve and OCC may act against state-regulated issuers during "unusual and exigent circumstances."
+
+#### Preemption of State Law (Section 12) <a href="#genius-act-preemption" id="genius-act-preemption"></a>
+
+Federal and state PPSI approval expressly preempts state money transmitter licensing requirements. However, state consumer protection laws are not broadly preempted. The scope of preemption as to state virtual currency-specific regimes (e.g., New York's BitLicense) is ambiguous — states may argue that stablecoin activities fall outside the preemption's scope. The Conference of State Bank Supervisors has [argued](https://www.csbs.org/csbs-genius-act-implementation-comment-letter) that Section 16(d), which allows state-chartered uninsured depository institutions to perform money transmission and custody activities nationwide through a stablecoin subsidiary, "violates basic tenets of state sovereignty and federalism."
+
+#### Stablecoin Certification Review Committee <a href="#genius-act-scrc" id="genius-act-scrc"></a>
+
+The SCRC is chaired by the Secretary of the Treasury with the Chair of the Federal Reserve Board and the Chair of the FDIC. Decisions are made by two-thirds vote or unanimous written consent. Key functions include certifying state regulatory regimes (within 30 days of submission), approving non-financial public companies seeking to issue stablecoins (requiring unanimous vote), and recommending foreign issuer determinations. States must submit certifications by July 18, 2026, with annual recertification thereafter. _See_ Section 1.20 (Treasury); Section 1.13 (FDIC); Section 1.30 (Federal Reserve).
+
+#### Agency Implementation (as of February 2026) <a href="#genius-act-implementation" id="genius-act-implementation"></a>
+
+Multiple agencies have initiated rulemaking under the GENIUS Act, with a statutory deadline of July 18, 2026 for final implementing regulations:
+
+**Treasury/FinCEN:** Published an Advance Notice of Proposed Rulemaking ([90 FR 2025-18226](https://www.federalregister.gov/documents/2025/09/19/2025-18226/genius-act-implementation)) on September 19, 2025, receiving 403 comment letters. Topics covered include BSA/AML obligations, state vs. federal oversight balance, comparable foreign regulatory regimes, and tax issues. A proposed rule is expected in the first half of 2026. _See_ Section 1.20 (Treasury); Section 1.21 (FinCEN).
+
+**FDIC:** Unanimously approved the first proposed rule under the GENIUS Act on December 16, 2025 ([90 FR 2025-23510](https://www.federalregister.gov/documents/2025/12/19/2025-23510/approval-requirements-for-issuance-of-payment-stablecoins-by-subsidiaries-of-fdic-supervised-insured)), establishing application procedures for FDIC-supervised institutions seeking to issue payment stablecoins through subsidiaries. Comment period extended to May 18, 2026. _See_ Section 1.13 (FDIC).
+
+**OCC:** On December 12, 2025, conditionally approved five national trust bank charters — Circle (First National Digital Currency Bank, N.A.), Ripple National Trust Bank, Paxos Trust Company N.A. (conversion), BitGo Bank & Trust N.A. (conversion), and Fidelity Digital Assets N.A. (conversion) — three of which intend to issue stablecoins. On January 8, 2026, the OCC issued a proposed rule to clarify that national trust banks may engage in stablecoin issuance and digital asset custody. _See_ Section 1.22 (OCC).
+
+**Federal Reserve:** Governor Bowman testified that the Fed is "working with the other banking regulators to develop capital, liquidity, and diversification regulations for stablecoin issuers as required by the GENIUS Act." No standalone proposed rule as of February 2026. _See_ Section 1.30 (Federal Reserve).
+
+**NCUA:** Submitted its implementing rulemaking to the Office of Management and Budget for review on December 19, 2025. _See_ Section 1.14 (NCUA).
+
+**Industry compliance:** Circle received conditional OCC approval for a national trust bank charter (December 2025). Tether launched USAT, a separate GENIUS Act-compliant stablecoin issued through Anchorage Digital Bank, N.A., on January 27, 2026. Paxos received conditional OCC approval to convert to a nationally chartered trust company (December 2025), positioning PYUSD as the largest stablecoin issued by a federally regulated entity.
+
+The Act takes effect on the earlier of January 18, 2027 or 120 days after regulators issue final implementing regulations. Existing stablecoin issuers who submit PPSI applications by July 18, 2028 receive a 12-month safe harbor beyond the effective date.
 
 ## Proposed Legislation <a href="#proposed-legislation" id="proposed-legislation"></a>
 
@@ -462,12 +538,17 @@ _Listed in reverse chronological order._
 
 ### 2026
 
+* Tether, [USAT Launch — GENIUS Act-Compliant Stablecoin via Anchorage Digital Bank](https://tether.io/news/tether-announces-the-launch-of-usat-the-federally-regulated-dollar-backed-stablecoin-made-in-america/) (2026.01.27)
 * IRS-CI, Press Release, [Additional 12 Defendants Charged in RICO Conspiracy for Over $263 Million Cryptocurrency Thefts, Money Laundering, Home Break-Ins](https://www.irs.gov/compliance/criminal-investigation/additional-12-defendants-charged-in-rico-conspiracy-for-over-263-million-cryptocurrency-thefts-money-laundering-home-break-ins) (2025.02)
+* OCC, [Proposed Rule — National Trust Bank Stablecoin/Digital Asset Activities](https://www.federalregister.gov/documents/2026/01/08) (2026.01.08)
 * Senate Agriculture Committee, Digital Commodity Intermediaries Act, Advanced 12-11 (2026.01.29)
 * Senate Banking Committee, Revised RFIA Draft with 137 Proposed Modifications (2026.01.12)
 
 ### 2025
 
+* NCUA, GENIUS Act Implementing Rulemaking Submitted to OMB (2025.12.19)
+* OCC, [Conditional Approval of Five National Trust Bank Charters](https://occ.gov/news-issuances/news-releases/2025/nr-occ-2025-125.html) — Circle, Ripple, Paxos, BitGo, Fidelity (2025.12.12)
+* FDIC, [Proposed Rule — GENIUS Act Application Procedures for FDIC-Supervised Institutions](https://www.federalregister.gov/documents/2025/12/19/2025-23510/approval-requirements-for-issuance-of-payment-stablecoins-by-subsidiaries-of-fdic-supervised-insured) (2025.12.16)
 * SEC, [Custody Rule Modernization Discussion Draft](https://www.sec.gov/files/custody-rule-modernization-model-framework-121925.pdf) (2025.12.19)
 * SEC, [Division of Trading and Markets FAQ on Crypto Asset Activities](https://www.sec.gov/rules-regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-relating-crypto-asset-activities-distributed-ledger-technology) (2025.12)
 * SEC, [Project Crypto Speech — Chairman Atkins](https://www.sec.gov/newsroom/speeches-statements/atkins-111225-secs-approach-digital-assets-inside-project-crypto) (2025.11.12)
@@ -475,7 +556,11 @@ _Listed in reverse chronological order._
 * FinCEN, CVC Kiosk Guidance, Notice FIN-2025-NTC1 (2025.08)
 * _United States v. Storm_, No. 23-cr-430 (S.D.N.Y. 2025.08.06) (mixed verdict)
 * _United States v. Chastain_ (2d Cir. 2025.07) (wire fraud conviction vacated)
-* GENIUS Act, Pub. L. 119-27, S. 1582 (2025.07.18)
+* Treasury/FinCEN, [ANPRM — GENIUS Act Implementation](https://www.federalregister.gov/documents/2025/09/19/2025-18226/genius-act-implementation), 403 Comment Letters Received (2025.09.19)
+* GENIUS Act, [Pub. L. 119-27](https://www.congress.gov/119/plaws/publ27/PLAW-119publ27.pdf), [S. 1582](https://www.congress.gov/bill/119th-congress/senate-bill/1582) (2025.07.18)
+* White House, [Fact Sheet: President Trump Signs GENIUS Act into Law](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/) (2025.07.18)
+* SEC, [Chairman Atkins Statement on GENIUS Act](https://www.sec.gov/newsroom/speeches-statements/atkins-statement-genius-act-071825) (2025.07.18)
+* CSBS, [GENIUS Act Implementation Comment Letter](https://www.csbs.org/csbs-genius-act-implementation-comment-letter) (2025)
 * CLARITY Act, H.R. 3633, Passed House (2025.07.17)
 * Anti-CBDC Surveillance State Act, H.R. 1919, Passed House (2025.07.17)
 * SEC, [Enforcement Action Dismissed — SEC v. Binance](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316) (2025.05.29)
