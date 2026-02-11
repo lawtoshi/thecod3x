@@ -6,5 +6,6 @@ Many states are considering and implementing crypto-related laws, often at varyi
 
 An overview of each U.S. state's law that addressing crypto in a specific way. This section is a work in progress and states are being added as time permits. Some section numbers may be omitted; these numbers are reserved for future additions.&#x20;
 
+* [2.32 - New York](new-york.md)
 * [2.40 - Oklahoma](oklahoma.md)
 * [2.50 - Wyoming](wyoming.md)

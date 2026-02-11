@@ -24,6 +24,7 @@
   * [1.30 - Federal Reserve Board (the Fed)](fedreg/thefed.md)
   * [1.40 - Executive Actions](fedreg/exec.md)
 * [State Regulations](states/README.md)
+  * [2.32 - New York](states/new-york.md)
   * [2.40 - Oklahoma](states/oklahoma.md)
   * [2.50 - Wyoming](states/wyoming.md)
 * [Terms of Use](terms-of-use.md)
