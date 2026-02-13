@@ -156,4 +156,4 @@ Sources are listed in reverse chronological order.
 
 ## Authors
 
-This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;
+This article was originally drafted by [@Lawtoshi](https://x.com/lawtoshi) and is subsequently being updated in conjunction with Claude Code.
