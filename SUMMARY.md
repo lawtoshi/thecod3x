@@ -23,6 +23,8 @@
   * [1.24 - Office of Foreign Assets Control (OFAC)](fedreg/ofac.md)
   * [1.30 - Federal Reserve Board (the Fed)](fedreg/thefed.md)
   * [1.40 - Executive Actions](fedreg/exec.md)
+  * [1.50 - Department of Justice (DOJ)](fedreg/doj.md)
+  * [1.51 - Federal Bureau of Investigation (FBI)](fedreg/fbi.md)
 * [State Regulations](states/README.md)
   * [2.40 - Oklahoma](states/oklahoma.md)
 * [Terms of Use](terms-of-use.md)
