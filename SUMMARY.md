@@ -25,4 +25,5 @@
   * [1.40 - Executive Actions](fedreg/exec.md)
 * [State Regulations](states/README.md)
   * [2.40 - Oklahoma](states/oklahoma.md)
+  * [2.50 - Wyoming](states/wyoming.md)
 * [Terms of Use](terms-of-use.md)
