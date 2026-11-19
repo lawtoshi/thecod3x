@@ -4,14 +4,8 @@ description: The Cod3x is a free, open source (CC BY 4.0) legal treatise about c
 
 # About
 
-{% hint style="danger" %}
-WARNING: THIS SITE IS NO LONGER BEING MAINTAINED.&#x20;
-
-\
-IT IS BEING KEPT ALIVE HERE FOR HISTORICAL/REFERENCE PURPOSES FOR THE TIME BEING.\
-
-
-IF YOU ARE LOOKING FOR THE LATEST LITIGATION TRACKER PLEASE HEAD [HERE](https://book.lawtoshi.xyz/).
+{% hint style="warning" %}
+This is an experimental treatise that is largely now maintained by bots, with minimal human oversight. It was originally drafted by humans.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/191c1f-BG-Logo-White-Text---Social-Media-Card.png" alt=""><figcaption></figcaption></figure>
@@ -28,5 +22,4 @@ The plumbing of the international financial system is changing beneath our feet.
 
 It is my sincere hope that this tool is helpful for you. If it can be made better in anyway, please [reach out](http://twitter.com/lawtoshi). If you find it helpful, please consider sharing an article, subscribing, or even writing a section to support its continued deployment and development! You can learn more about how to [contribute here](contribute.md).
 
-
-
+This update created by bots on 2026-11-18 and approved by a human on 2026-11-18.

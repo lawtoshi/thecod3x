@@ -1,150 +1,63 @@
-# thecod3x Weekly Monitoring Automation
+# thecod3x Monitoring Automation
 
-This directory contains the automation setup for monitoring crypto regulatory developments and updating thecod3x.com.
+This directory holds the constitution, monitor bible, budgets, and (later) Agent SDK prompts for updating [thecod3x.com](https://www.thecod3x.com).
 
-## Overview
+## Primary path: Cursor-hosted Agent SDK
 
-The system uses Claude Code to:
-1. Search for new regulatory developments across multiple sources
-2. Evaluate their significance
-3. Draft updates to relevant pages
-4. Create pull requests for review
+Daily automation runs on **Cursor-hosted Agent SDK** tied to this Project — not on Gregory’s laptop.
 
-## Files in This Directory
+Pipeline (human-all merges):
 
-- **`weekly-crypto-monitor.md`** - Detailed instructions for Claude Code on what to monitor and how to evaluate significance
-- **`run-weekly-monitor.sh`** - Shell script to easily run the weekly monitoring
-- **`reports/`** - Directory where monitoring reports are saved
+```
+ingest (Haiku) → rank → draft (Sonnet, budget-capped)
+  → challenge/arbiter (Opus) → optional prune if it wins priority
+  → open ONE PR / day → Project coordinator yes/no → merge on yes
+```
 
-## Quick Start
+Budgets, model tiers, `spend_ceiling_pct: 75`, and coordinator UX notes live in `monitoring-config.md`. Hard editorial rules live in `editorial-constitution.md`.
 
-### First Time Setup
+## Files in this directory
 
-1. Make sure Claude Code is installed:
-   ```bash
-   claude-code --version
-   ```
+| File | Role |
+|------|------|
+| **`editorial-constitution.md`** | Neutrality, primary sources, ambiguity, attribution, human-all, experimental posture, no Litigation Tracker |
+| **`monitoring-config.md`** | Daily cadence, serial caps, model tiers, 75% spend ceiling, PR / human-gate UX |
+| **`weekly-crypto-monitor.md`** | Search queries + AUTO-INCLUDE / EVALUATE / SKIP thresholds (still the significance bible) |
+| **`run-weekly-monitor.sh`** | **Emergency fallback only** — laptop Claude CLI weekly run if hosted path is unavailable |
+| **`reports/`** | Candidate ledgers, cost logs, and historical monitoring reports |
 
-2. Set your Anthropic API key:
-   ```bash
-   export ANTHROPIC_API_KEY='your-api-key-here'
-   # Add to ~/.bashrc or ~/.zshrc for persistence
-   ```
+Phase 1+ will add `agents/`, `proposals/`, `decisions/`, and `prune/` under this directory.
 
-3. Navigate to the thecod3x repository root:
-   ```bash
-   cd ~/path/to/thecod3x
-   ```
+## Emergency fallback (laptop)
 
-4. Make the runner script executable:
-   ```bash
-   chmod +x .automation/run-weekly-monitor.sh
-   ```
+Only if Cursor-hosted runs are down:
 
-### Running Weekly Monitoring
-
-Every Monday morning (or whenever you want to check for updates):
+1. Ensure Claude Code / `claude` CLI and `ANTHROPIC_API_KEY` are available.
+2. From the repository root:
 
 ```bash
-cd ~/path/to/thecod3x
+chmod +x .automation/run-weekly-monitor.sh   # first time
 ./.automation/run-weekly-monitor.sh
 ```
 
-This will:
-1. Calculate the date range (past 7 days)
-2. Run Claude Code with the monitoring instructions
-3. Save a report to `.automation/reports/report-YYYY-MM-DD.md`
-4. If significant developments are found, Claude Code will propose changes
+3. Review `.automation/reports/report-YYYY-MM-DD.md`, then open at most one PR for human yes/no via the Project coordinator — same human-all rule as the primary path.
 
-### Review Process
+Do **not** treat the weekly laptop script as the normal operating mode.
 
-1. **Review the Report**: Check `.automation/reports/report-YYYY-MM-DD.md` for the full findings
+## Review / merge UX
 
-2. **Review Proposed Changes**: Claude Code will show you the proposed markdown changes before creating a PR
+1. Agents open **one** substantive PR per day (or exit with no PR on quiet days).
+2. Coordinator asks Gregory: **“Are you ready to merge today’s treatise PR?”**
+3. On yes → merge and stamp the human-approved attribution date. On no → revise or defer.
 
-3. **Approve or Modify**: 
-   - If you approve: Let Claude Code create the branch and PR
-   - If you want modifications: Provide feedback and Claude Code will adjust
-   - If you want to skip: No PR will be created
-
-4. **Review PR on GitHub**: Go to https://github.com/lawtoshi/thecod3x/pulls and review the PR
-
-5. **Merge**: If satisfied, merge the PR to update the live site
+Target skim: ~15 minutes. Review SLA: 72 hours.
 
 ## Customization
 
-### Adjusting Significance Criteria
-
-Edit `weekly-crypto-monitor.md` to change what counts as "significant":
-
-- **AUTO-INCLUDE**: Developments that always warrant a PR
-- **EVALUATE**: Developments that require judgment
-- **SKIP**: Developments that aren't worth including
-
-### Adding New Sources
-
-Add new search queries or sources in the "Step 1: Search for Developments" section of `weekly-crypto-monitor.md`
-
-### Changing Frequency
-
-The script is designed for weekly runs, but you can run it more or less frequently:
-- **Daily**: Run every day for time-sensitive monitoring
-- **Bi-weekly**: Run every two weeks for less frequent updates
-- **Monthly**: Run once a month for major developments only
-
-Just adjust the date calculation in `run-weekly-monitor.sh` (currently set to 7 days)
-
-## Troubleshooting
-
-### Claude Code Not Found
-```bash
-npm install -g @anthropic-ai/claude-code
-```
-
-### Permission Denied
-```bash
-chmod +x .automation/run-weekly-monitor.sh
-```
-
-### API Key Issues
-```bash
-echo $ANTHROPIC_API_KEY  # Should show your key
-# If empty, export it again
-```
-
-### Git Issues
-Make sure you're in the repository root:
-```bash
-cd ~/path/to/thecod3x
-git status  # Should show your repo status
-```
-
-## Manual Monitoring (Alternative)
-
-If you prefer not to use the shell script, you can run Claude Code directly:
-
-```bash
-cd ~/path/to/thecod3x
-claude-code "Execute the weekly monitoring task from .automation/weekly-crypto-monitor.md for the period {START_DATE} to {END_DATE}"
-```
-
-## Future Enhancements
-
-Once we've tested manual monitoring for 4-6 weeks and refined the process, we can:
-
-1. **Automate with GitHub Actions**: Set up automatic weekly runs
-2. **Add Email Notifications**: Get notified when significant developments are found
-3. **Integrate More Data Sources**: Add APIs for Federal Register, CourtListener, etc.
-4. **Create Dashboard**: Build a simple dashboard to track monitoring history
-
-## Tips for Best Results
-
-1. **Run Consistently**: Try to run at the same time each week (Monday mornings work well)
-2. **Review Carefully**: Always review proposed changes before merging
-3. **Provide Feedback**: After each run, note what worked well and what didn't
-4. **Iterate on Instructions**: Update `weekly-crypto-monitor.md` based on results
-5. **Keep Reports**: The reports directory serves as a log of what was checked each week
+- Significance thresholds: edit `weekly-crypto-monitor.md`
+- Caps / tiers / ceiling: edit `monitoring-config.md`
+- Voice / citation / scope rules: edit `editorial-constitution.md`
 
 ## Questions?
 
-If you encounter issues or have questions about the monitoring system, create an issue in the repository or reach out to @lawtoshi.
+Reach the Project coordinator or @lawtoshi.
