@@ -22,4 +22,4 @@ The plumbing of the international financial system is changing beneath our feet.
 
 It is my sincere hope that this tool is helpful for you. If it can be made better in anyway, please [reach out](http://twitter.com/lawtoshi). If you find it helpful, please consider sharing an article, subscribing, or even writing a section to support its continued deployment and development! You can learn more about how to [contribute here](contribute.md).
 
-This update created by bots on 2026-11-19 and approved by a human on 2026-11-18.
+This update created by bots on 2026-11-18 and approved by a human on 2026-11-18.
