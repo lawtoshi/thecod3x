@@ -1,48 +1,57 @@
 # thecod3x Monitoring Automation
 
-This directory holds the constitution, monitor bible, budgets, and (later) Agent SDK prompts for updating [thecod3x.com](https://www.thecod3x.com).
+This directory holds the constitution, monitor bible, budgets, and artifact sinks for updating [thecod3x.com](https://www.thecod3x.com).
 
 ## Primary path: Cursor-hosted Agent SDK
 
-Daily automation runs on **Cursor-hosted Agent SDK** tied to this Project — not on Gregory’s laptop.
+Daily automation lives in **`agents/treatise-daily/`** (Agent SDK project) and deploys to **Cursor-hosted** Agent SDK — not Gregory’s laptop.
 
 Pipeline (human-all merges):
 
 ```
-ingest (Haiku) → rank → draft (Sonnet, budget-capped)
-  → challenge/arbiter (Opus) → optional prune if it wins priority
-  → open ONE PR / day → Project coordinator yes/no → merge on yes
+schedule 14:00 UTC (or POST /channels/daily/run)
+  → scoop SEC/CFTC/OFAC candidates
+  → ingest (Haiku) → rank
+  → draft (Sonnet, budget-capped)
+  → cite-verify → challenge/arbiter (Opus)
+  → open ONE PR / day (or clean no-op)
+  → Project coordinator yes/no → merge on yes
 ```
 
-Budgets, model tiers, `spend_ceiling_pct: 75`, and coordinator UX notes live in `monitoring-config.md`. Hard editorial rules live in `editorial-constitution.md`.
+| Piece | Location |
+|-------|----------|
+| Agent project | `agents/treatise-daily/` |
+| Daily cron | `agents/treatise-daily/bot/schedules/daily.ts` (`0 14 * * *` UTC) |
+| Manual trigger | `POST /treatise-daily/v1/channels/daily/run` (or playground schedule dispatch) |
+| Constitution | `.automation/editorial-constitution.md` |
+| Budgets / tiers / 75% ceiling | `.automation/monitoring-config.md` |
+| Significance bible | `.automation/weekly-crypto-monitor.md` |
+
+See `agents/treatise-daily/README.md` for validate / serve / deploy commands.
 
 ## Files in this directory
 
-| File | Role |
-|------|------|
-| **`editorial-constitution.md`** | Neutrality, primary sources, ambiguity, attribution, human-all, experimental posture, no Litigation Tracker |
-| **`monitoring-config.md`** | Daily cadence, serial caps, model tiers, 75% spend ceiling, PR / human-gate UX |
-| **`weekly-crypto-monitor.md`** | Search queries + AUTO-INCLUDE / EVALUATE / SKIP thresholds (still the significance bible) |
-| **`run-weekly-monitor.sh`** | **Emergency fallback only** — laptop Claude CLI weekly run if hosted path is unavailable |
-| **`reports/`** | Candidate ledgers, cost logs, and historical monitoring reports |
-
-Phase 1+ will add `agents/`, `proposals/`, `decisions/`, and `prune/` under this directory.
+| File / dir | Role |
+|------------|------|
+| **`editorial-constitution.md`** | Neutrality, primary sources, ambiguity, attribution, human-all, no Litigation Tracker |
+| **`monitoring-config.md`** | Daily cadence, serial caps, model tiers, `spend_ceiling_pct: 75`, PR / human-gate UX |
+| **`weekly-crypto-monitor.md`** | Search queries + AUTO-INCLUDE / EVALUATE / SKIP |
+| **`run-weekly-monitor.sh`** | **Emergency fallback only** — laptop Claude CLI weekly run if hosted path is down |
+| **`reports/`** | Candidate ledgers, cost logs, no-op notes, historical reports |
+| **`proposals/`** | Per-day proposal packages (`YYYY-MM-DD-<slug>/`) |
+| **`decisions/`** | Arbiter decision logs |
+| **`prune/`** | Stale-passage queue (`prune/queue.md`) |
 
 ## Emergency fallback (laptop)
 
 Only if Cursor-hosted runs are down:
-
-1. Ensure Claude Code / `claude` CLI and `ANTHROPIC_API_KEY` are available.
-2. From the repository root:
 
 ```bash
 chmod +x .automation/run-weekly-monitor.sh   # first time
 ./.automation/run-weekly-monitor.sh
 ```
 
-3. Review `.automation/reports/report-YYYY-MM-DD.md`, then open at most one PR for human yes/no via the Project coordinator — same human-all rule as the primary path.
-
-Do **not** treat the weekly laptop script as the normal operating mode.
+Review `.automation/reports/report-YYYY-MM-DD.md`, then open at most one PR for human yes/no via the Project coordinator — same human-all rule.
 
 ## Review / merge UX
 
@@ -57,7 +66,4 @@ Target skim: ~15 minutes. Review SLA: 72 hours.
 - Significance thresholds: edit `weekly-crypto-monitor.md`
 - Caps / tiers / ceiling: edit `monitoring-config.md`
 - Voice / citation / scope rules: edit `editorial-constitution.md`
-
-## Questions?
-
-Reach the Project coordinator or @lawtoshi.
+- Schedule / tools / subagents: edit `agents/treatise-daily/`
