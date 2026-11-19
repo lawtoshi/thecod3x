@@ -4,6 +4,16 @@ Docs-as-config for thecod3x daily automation. Primary runtime: **Cursor-hosted A
 
 Load together with `editorial-constitution.md` and `weekly-crypto-monitor.md` (AUTO-INCLUDE / EVALUATE / SKIP thresholds remain authoritative for significance).
 
+## Runtime (Phase 1)
+
+| Setting | Value |
+|---------|-------|
+| **Agent project** | `agents/treatise-daily/` (`@grok/agent-sdk@0.6.0`) |
+| **Daily cron** | `0 14 * * *` UTC (`bot/schedules/daily.ts`) |
+| **Manual trigger** | `POST /treatise-daily/v1/channels/daily/run` |
+| **Model tiers** | Haiku orchestrator + ingest; Sonnet draft; Opus challenge/arbiter |
+| **Section rotation** | SEC → CFTC → OFAC |
+
 ---
 
 ## Cadence
