@@ -1,10 +1,12 @@
 # treatise-daily
 
-Cursor-hosted Agent SDK orchestrator for [lawtoshi/thecod3x](https://github.com/lawtoshi/thecod3x).
+Agent SDK orchestrator for [lawtoshi/thecod3x](https://github.com/lawtoshi/thecod3x).
 
 Pipeline: **ingest → rank → draft → challenge/arbiter → cite-verify → ≤1 PR/day** (or clean no-op).
 
 Phase 1 rotation: **SEC → CFTC → OFAC**.
+
+**Hosting:** Without Enterprise service accounts, managed deploy from cloud workers is blocked. **Interim daily path:** Project cloud worker playbook `.automation/daily-cloud-run.md`. See **[HOSTING.md](./HOSTING.md)** for options and private-terminal deploy commands.
 
 ## Layout
 
@@ -43,15 +45,7 @@ curl -X POST http://127.0.0.1:3000/treatise-daily/v1/dev/schedules/daily
 
 ## Deploy (Cursor-hosted)
 
-Requires an attached Cursor service account and a pushed git ref:
-
-```bash
-npx --yes "@grok/agent-sdk@0.6.0" validate --dir .
-npx --yes "@grok/agent-sdk@0.6.0" deploy --dir . --dry-run --json
-npx --yes "@grok/agent-sdk@0.6.0" deploy --dir .
-```
-
-Pass `--cursor-events-repo lawtoshi/thecod3x` when preserving GitHub event wiring.
+Cloud workers cannot deploy without an Enterprise **service account**. Prefer the interim cloud-worker path (`.automation/daily-cloud-run.md`) unless Gregory confirms team agent hosting and runs deploy from a **private terminal** — commands in [HOSTING.md](./HOSTING.md).
 
 ## Human gate
 

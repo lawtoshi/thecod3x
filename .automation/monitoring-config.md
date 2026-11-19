@@ -1,6 +1,6 @@
 # Monitoring Configuration
 
-Docs-as-config for thecod3x daily automation. Primary runtime: **Cursor-hosted Agent SDK** (Project-tied). Laptop `run-weekly-monitor.sh` is emergency fallback only.
+Docs-as-config for thecod3x daily automation. **Interim primary runtime:** Project coordinator → daily Cursor **cloud worker** (`.automation/daily-cloud-run.md`) — laptop-independent without Enterprise service accounts. Managed Agent SDK hosting remains the long-term target when team hosting is available (`agents/treatise-daily/HOSTING.md`). Laptop `run-weekly-monitor.sh` is emergency fallback only.
 
 Load together with `editorial-constitution.md` and `weekly-crypto-monitor.md` (AUTO-INCLUDE / EVALUATE / SKIP thresholds remain authoritative for significance).
 
@@ -8,10 +8,10 @@ Load together with `editorial-constitution.md` and `weekly-crypto-monitor.md` (A
 
 | Setting | Value |
 |---------|-------|
-| **Agent project** | `agents/treatise-daily/` (`@grok/agent-sdk@0.6.0`) |
-| **Daily cron** | `0 14 * * *` UTC (`bot/schedules/daily.ts`) |
-| **Manual trigger** | `POST /treatise-daily/v1/channels/daily/run` |
-| **Model tiers** | Haiku orchestrator + ingest; Sonnet draft; Opus challenge/arbiter |
+| **Interim daily path** | Project cloud worker + `.automation/daily-cloud-run.md` |
+| **Agent project (future hosted)** | `agents/treatise-daily/` (`@grok/agent-sdk@0.6.0`) |
+| **Hosted cron (when deployed)** | `0 14 * * *` UTC (`bot/schedules/daily.ts`) |
+| **Model tiers** | Haiku ingest/triage; Sonnet draft; Opus challenge/arbiter (cloud worker approximates with Cursor models) |
 | **Section rotation** | SEC → CFTC → OFAC |
 
 ---
@@ -20,7 +20,7 @@ Load together with `editorial-constitution.md` and `weekly-crypto-monitor.md` (A
 
 | Setting | Value |
 |---------|-------|
-| **Primary cadence** | Daily (Cursor-hosted Agent SDK) |
+| **Primary cadence** | Daily (Project cloud worker interim; hosted Agent SDK when available) |
 | **Output shape** | ≤1 substantive PR / calendar day |
 | **Empty ingest** | Early exit — short “nothing significant” note; **no empty PR** |
 | **Weekly prune evaluation** | Continues; ships only when it wins a day’s priority (or as a small additive fix inside that day’s PR) |
