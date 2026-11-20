@@ -501,4 +501,4 @@ Sources are listed in reverse chronological order.
 
 ## Authors
 
-This article was drafted by [@Lawtoshi](https://twitter.com/lawtoshi).&#x20;
+This article was drafted by Claude Code and [@Lawtoshi](https://x.com/lawtoshi).
