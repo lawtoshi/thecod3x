@@ -194,6 +194,7 @@ Beginning in 2022, the SEC also scrutinized NFTs that appeared to operate simila
 
 Outright fraudulent offerings are similarly likely to draw SEC enforcement:
 
+* [_SEC v. Advisor WeChat Capital et al._](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26690), No. 26-cv-06302 (D. Colo. filed 2026.11.19) (alleged fake adviser / fake crypto trading platform pairs; >$37 million);
 * [_In re Blockchain Credit Partners d/b/a DeFi Money Market, Gregory Keough, and Derek Acree_](https://www.sec.gov/news/press-release/2021-145) (2021.08.06);
 * [_SEC v. Uulala, Inc., Oscar Garcia, and Matthew Loughran_](https://www.sec.gov/litigation/litreleases/2021/lr25157.htm), No. 5:21-cv-01307 (C.D. Cal. 2021.08.04);
 * [_SEC v. Kristijan Krstic (a/k/a Felix Logan), John DeMarr, and Robin Enos_](https://www.sec.gov/news/press-release/2021-22), 21 Civ. 0529 (E.D.N.Y. 2021.02.01);
@@ -252,6 +253,8 @@ The dismissals occurred in rapid succession:
 * **Binance** (May 29, 2025): The SEC filed a joint stipulation for dismissal with prejudice. _See_ SEC, [_Litigation Release No. 26316_](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316) (2025.05.29). (The separate DOJ criminal case against Binance, which resulted in a $4.3 billion settlement in November 2023 and Zhao's guilty plea for anti-money laundering violations, was unaffected by the SEC dismissal.)
 
 Notably, the SEC's fraud case against Terraform Labs and Do Kwon — which had already resulted in a jury verdict and $4.5 billion settlement — was _not_ dismissed, as it involved allegations of actual fraud and material misrepresentation rather than regulatory classification disputes.
+
+That antifraud through-line continued after the classification-case dismissals. On November 19, 2026, the SEC's Cyber and Emerging Technologies Unit charged eight Colorado-based entities — Advisor WeChat Capital, Tech Brokerage Asset Alliance Ltd., HB Wealth Advisors, IdeaCrypto Exchange LLC, Convergent Wealth Advisors Inc., RealSimple Crypto Exchange Inc., Associated Wealth Advisors Ltd., and Essential Crypto Exchange — with operating paired fake investment-adviser and fake crypto asset trading platform fronts that allegedly stole more than $37 million from over 1,500 U.S. investors between August 2024 and May 2026. _See_ SEC, [_Litigation Release No. 26690_](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26690) (2026.11.19); SEC, [_Complaint_](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-115.pdf), _SEC v. Advisor WeChat Capital et al._, No. 26-cv-06302 (D. Colo. filed 2026.11.19); SEC, Press Release, [_SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors_](https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors) (2026.11.19). The complaint alleges Exchange Act § 10(b) / Rule 10b-5 violations against all eight defendants, Advisers Act §§ 206(1) and 206(2) against the four adviser-named entities, and Advisers Act § 207 against Convergent Wealth Advisors Inc. and Essential Crypto Exchange. According to the SEC, the operators used social-media ads and chat rooms, fake SEC certificates, and filings with the SEC, FINRA, or FinCEN to feign legitimacy before directing victims into purported "Initial Exchange Offerings" on the paired platforms; the Commission later removed a Form D and certain Forms ADV associated with the scheme from its website. The action remains at the complaint stage — allegations, not adjudicated findings — and does not advance a novel token-classification theory; its significance for this treatise is as a post-2025 data point that Atkins-era enforcement against alleged crypto-related fraud continued even as registration and exchange theories from the Gensler period were walked back.
 
 The mass dismissals represent an extraordinary repudiation of the prior administration's enforcement approach. Whether characterized as a correction of prosecutorial overreach or a dangerous retreat from investor protection, the 2025 reversals made clear that the fundamental question of how federal securities law applies to digital assets — a question the SEC had, through enforcement, asserted sweeping answers to — remained profoundly unsettled.
 
@@ -329,6 +332,7 @@ In sum, by early 2026, all three of the major Gensler-era proposed rules with si
 
 Sources are listed in reverse chronological order.
 
+* SEC, [_Litigation Release No. 26690_](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26690); [_Complaint_](https://www.sec.gov/files/litigation/complaints/2026/comp-pr2026-115.pdf), _SEC v. Advisor WeChat Capital et al._, No. 26-cv-06302 (D. Colo. filed 2026.11.19); Press Release, [_SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors_](https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors) (2026.11.19)
 * SEC, [_Cyber Enforcement Actions_](https://www.sec.gov/spotlight/cybersecurity-enforcement-actions) (Continuously Updated)
 * Cornerstone Research, [_SEC Cryptocurrency Enforcement: 2025 Update_](https://www.cornerstone.com/insights/research/sec-cryptocurrency-enforcement-2025-update/) (2026.01)
 * SEC, [_SEC Crypto Task Force to Host Roundtable on Financial Surveillance and Privacy_](https://www.sec.gov/newsroom/press-releases/2025-114-sec-crypto-task-force-host-roundtable-financial-surveillance-privacy) (2025.12.15)
@@ -466,3 +470,5 @@ Sources are listed in reverse chronological order.
 ## Authors
 
 This article was originally drafted by [@Lawtoshi](https://x.com/lawtoshi) and is subsequently being updated in conjunction with Claude Code.&#x20;
+
+This update created by bots on 2026-11-20 and approved by a human on [DATE].
