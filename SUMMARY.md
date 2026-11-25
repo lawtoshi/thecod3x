@@ -23,5 +23,6 @@
   * [1.50 - Department of Justice (DOJ)](fedreg/doj.md)
   * [1.51 - Federal Bureau of Investigation (FBI)](fedreg/fbi.md)
 * [State Regulations](states/README.md)
+  * [2.06 - Colorado](states/colorado.md)
   * [2.40 - Oklahoma](states/oklahoma.md)
 * [Terms of Use](terms-of-use.md)
