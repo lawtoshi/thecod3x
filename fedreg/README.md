@@ -19,3 +19,5 @@ An overview of each of the areas of U.S. federal law that have addressed crypto 
 * [1.26 - Financial Action Task Force (FATF)](fatf.md)
 * [1.30 - Federal Reserve Board (the Fed)](thefed.md)
 * [1.40 -  Executive Actions](exec.md)
+* [1.50 - Department of Justice (DOJ)](doj.md)
+* [1.51 - Federal Bureau of Investigation (FBI)](fbi.md)

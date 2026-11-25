@@ -4,6 +4,7 @@
 * [Contribute](contribute.md)
 * [Federal Regulations](fedreg/README.md)
   * [1.01 - U.S. Constitution](fedreg/constitution.md)
+  * [1.02 - Federal Statutes](fedreg/statutes.md)
   * [1.10 - Securities and Exchange Commission (SEC)](fedreg/sec.md)
   * [1.11 - Commodity Futures Trading Commission (CFTC)](fedreg/cftc.md)
   * [1.12 - Consumer Financial Protection Bureau (CFPB)](fedreg/cfpb.md)
