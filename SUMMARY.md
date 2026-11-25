@@ -24,4 +24,5 @@
   * [1.51 - Federal Bureau of Investigation (FBI)](fedreg/fbi.md)
 * [State Regulations](states/README.md)
   * [2.40 - Oklahoma](states/oklahoma.md)
+  * [2.44 - Texas](states/texas.md)
 * [Terms of Use](terms-of-use.md)
